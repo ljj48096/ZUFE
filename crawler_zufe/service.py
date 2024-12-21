@@ -313,8 +313,10 @@ class GeneralService(BaseService):
             url2 = "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzbjk_xkBcZyZzxkYzb.html?gnmkdm=N253512"
             # 发送选课请求
             count = 0
+            infnite = False
             if self.retry_times == 1:  # 挂着抢课
                 infnite = True
+
             while count < self.retry_times or infnite:
                 count += 1
                 try:
@@ -642,6 +644,7 @@ class NetService(BaseService):
             url2 = "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzbjk_xkBcZyZzxkYzb.html?gnmkdm=N253512"
             # 发送选课请求
             count = 0
+            infnite = False
             if self.retry_times == 1:  # 挂着抢课
                 infnite = True
             while count < self.retry_times or infnite:
@@ -863,6 +866,7 @@ class MajorService(BaseService):
             url2 = "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzbjk_xkBcZyZzxkYzb.html?gnmkdm=N253512"
             # 发送选课请求
             count = 0
+            infnite = False
             if self.retry_times == 1:  # 挂着抢课
                 infnite = True
             while count < self.retry_times or infnite:
