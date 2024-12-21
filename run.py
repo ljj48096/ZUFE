@@ -2,7 +2,7 @@ import argparse
 import json
 import time
 from crawler_zufe.login import IZUFE
-from crawler_zufe.service import GeneralService, MajorService, NetService
+from crawler_zufe.service import GeneralService, MajorService, NetService, CourseService
 from utils.util import get_logger
 from crawler_zufe.captcha import *
 
@@ -101,16 +101,16 @@ def main():
         
         # 根据配置文件内各课程状态选择课程
         if elective:  # 通识选修课
-            elective_service = GeneralService(zufe.extract(), elective)
-            elective_service.start()
+            elective_service = CourseService(zufe.extract(), elective)
+            elective_service.start("通识选修课")
         
         # if major:  # 主修课程
-        #     major_service = MajorService(zufe.extract(), major)
-        #     major_service.start()
+        #     major_service = CourseService(zufe.extract(), major)
+        #     major_service.start("主修课程")
 
         # if net:  # 网络课程
-        #     net_service = NetService(zufe.extract(), net)
-        #     net_service.start()
+        #     net_service = CourseService(zufe.extract(), net)
+        #     net_service.start("网络课程")
 
 if __name__ == '__main__':
     main()
