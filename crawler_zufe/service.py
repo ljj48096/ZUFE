@@ -1,4 +1,5 @@
 import logging
+import random
 import time
 import urllib.parse
 from copy import deepcopy, copy
@@ -917,12 +918,22 @@ class CourseService(BaseService):
 
         while count < self.retry_times or infnite:
             count += 1 # 记录运行次数
+            time.sleep(random.randint(1, 3)) # 延迟
             """查询待选课相关信息"""
             for _, coure_info in enumerate(self.courses):
                 courese_name = coure_info.get('课程名称')
                 course_id = coure_info.get('课程代码', None)
                 jxb_name = coure_info.get('教学班名称', None)
+
+                # 选上的课不再选了
+                if courese_name in self.courses_ok:
+                    continue
                 
+                # 课选完了就退出
+                if len(self.courses_ok) == len(self.courses):
+                    logger.info(f'{course_type}课程选课完毕。')
+                    return None
+
                 # 更新payload
                 payload.update({
                     "filter_list[0]": courese_name, 
@@ -958,9 +969,6 @@ class CourseService(BaseService):
                     if course_id != None and kch == course_id:
                         break
                     
-                # 选上的课不再选了
-                if kcmc in self.courses_ok:
-                    continue
                 # 课程已满, 跳过
                 if num_limit < num_alread_selected:
                     logger.info(f'{course_type}课程<{courese_name}>当前选课人数已满。')
@@ -1007,7 +1015,7 @@ class CourseService(BaseService):
                         if msg == "1": 
                             logger.info(f'{course_type}课程<{courese_name}>选课成功！')
                             self.courses_ok.append(kcmc)
-                            break
+                            continue
                         else:
                             logger.info(f'{course_type}课程<{courese_name}>第{count}次没选上。即将重试')
                             time.sleep(self.delay)
