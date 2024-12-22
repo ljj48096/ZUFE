@@ -1,11 +1,11 @@
 {
     "username": "",
     "password": "",
-    "zyh_id": "",
-    "njdm_id": "", 
-    "bh_id": "", 
+    "zyh_id": "1240",
+    "njdm_id": "2022", 
+    "bh_id": "22207302", 
     "xqh_id": "下沙校区", 
-    "jd_id": "", 
+    "jd_id": "12", 
     "courses": {
         "通识选修课": [
             {

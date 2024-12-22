@@ -4171,3 +4171,28 @@
 [2024/12/19 19:54:41 INFO] crawler_zufe.login 当前不属于选课阶段
 [2024/12/19 19:54:41 INFO] crawler_zufe.login 当前不属于选课阶段
 [2024/12/19 19:54:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:03 WARNING] __main__ 未检测到体育课的配置。
+[2024/12/22 13:56:03 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/22 13:56:04 INFO] crawler_zufe.captcha 验证码为: be4s
+[2024/12/22 13:56:04 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/22 13:56:05 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/22 13:56:05 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/22 13:56:05 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/22 13:56:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/22 13:56:16 INFO] crawler_zufe.login 当前不属于选课阶段
