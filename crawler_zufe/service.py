@@ -948,9 +948,7 @@ class CourseService(BaseService):
                     kch_id = course_base_info["kch_id"]  # 课程号
                     kklxdm = course_base_info["kklxdm"]
                     kcmc = course_base_info["kcmc"]  # 课程名称
-                    # 选上的课不再选了
-                    if kcmc in self.courses_ok:
-                        continue
+
                     kch = course_base_info["kch"]  # 课程代码
                     xf = course_base_info["xf"]  # 学分
                     jxbmc = course_base_info["jxbmc"]  # 教学班名称
@@ -959,7 +957,10 @@ class CourseService(BaseService):
                         break
                     if course_id != None and kch == course_id:
                         break
-
+                    
+                # 选上的课不再选了
+                if kcmc in self.courses_ok:
+                    continue
                 # 课程已满, 跳过
                 if num_limit < num_alread_selected:
                     logger.info(f'{course_type}课程<{courese_name}>当前选课人数已满。')
