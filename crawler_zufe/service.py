@@ -918,7 +918,7 @@ class CourseService(BaseService):
         while count < self.retry_times or infnite:
             count += 1 # 记录运行次数
             """查询待选课相关信息"""
-            for i, coure_info in enumerate(self.courses):
+            for _, coure_info in enumerate(self.courses):
                 courese_name = coure_info.get('课程名称')
                 course_id = coure_info.get('课程代码', None)
                 jxb_name = coure_info.get('教学班名称', None)
@@ -948,6 +948,9 @@ class CourseService(BaseService):
                     kch_id = course_base_info["kch_id"]  # 课程号
                     kklxdm = course_base_info["kklxdm"]
                     kcmc = course_base_info["kcmc"]  # 课程名称
+                    # 选上的课不再选了
+                    if kcmc in self.courses_ok:
+                        continue
                     kch = course_base_info["kch"]  # 课程代码
                     xf = course_base_info["xf"]  # 学分
                     jxbmc = course_base_info["jxbmc"]  # 教学班名称
@@ -1002,7 +1005,7 @@ class CourseService(BaseService):
                         msg = rsp2.json()["flag"]
                         if msg == "1": 
                             logger.info(f'{course_type}课程<{courese_name}>选课成功！')
-                            del self.courses[i]  # 删除已选课程
+                            self.courses_ok.append(kcmc)
                             break
                         else:
                             logger.info(f'{course_type}课程<{courese_name}>第{count}次没选上。即将重试')
