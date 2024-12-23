@@ -53,7 +53,7 @@ def check_config(file_path):
         net = dict(common)
         net.update({'courses': net_cos})
     else:
-        logger.warning('未检测到体育课的配置。')
+        logger.warning('未检测到网络课程的配置。')
         net = None
 
     major_cos = courses.get('主修课程')
@@ -94,15 +94,15 @@ def main():
 
     zufe = IZUFE(username=common.get('username'), password=common.get('password'))
     zufe.login()
-
-    # 启动选课服务
-    if not args.only_login:
-        zufe.get_chase_course_session()
+    zufe._get_id_data()
+    # # 启动选课服务
+    # if not args.only_login:
+        # zufe.get_chase_course_session()
         
-        # 根据配置文件内各课程状态选择课程
-        if elective:  # 通识选修课
-            elective_service = CourseService(zufe.extract(), elective)
-            elective_service.start("通识选修课")
+    #     # 根据配置文件内各课程状态选择课程
+    #     if elective:  # 通识选修课
+    #         elective_service = CourseService(zufe.extract(), elective)
+    #         elective_service.start("通识选修课")
         
         # if major:  # 主修课程
         #     major_service = CourseService(zufe.extract(), major)

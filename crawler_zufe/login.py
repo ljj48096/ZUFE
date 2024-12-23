@@ -26,6 +26,7 @@ PROXY_POOL = [
 ]
 class IZUFE:
     def __init__(self, username, password):
+        self.id_dict = None
         self.username = username
         self.password = password
         self.realname = None
@@ -272,12 +273,62 @@ class IZUFE:
 
         return
 
+    def _get_id_data(self):
+        """
+        获取选课需要的一些id值
+        :param None
+        :return: id_dict: 包含所有需要的 id 值的字典
+        """
+        gnmkdm = 'N214505'  # 查询功能代码
+        func_name = "班级推荐课表打印"
+        id_dict = {}  # 用于存储 id 值的字典
+
+        _, second_response, _session, _headers = self._base_post(gnmkdm, func_name, temp=True)        
+
+
+        """解析页面内容"""
+        url = "http://jwxt.zufe.edu.cn/jwglxt/kbdy/bjkbdy_cxBjkbdyIndex.html?gnmkdm=N214505&layout=default"
+        rsp = _session.get(url, headers=_headers)
+        
+        try:
+            # 解析成绩查询页面内容
+            soup = BeautifulSoup(rsp.text, 'html.parser')
+        except Exception as e:
+            logger.error(f'解析成绩查询页面内容失败！错误: {e}')
+            return None
+        
+        # 查找所有class为"form-control chosen-select"的select标签
+        select_tags = soup.find_all('select', class_='form-control chosen-select')
+
+        # 遍历这些select标签
+        for select_tag in select_tags:
+            # 获取select标签的id
+            select_id = select_tag.get('id')
+            
+            # 查找select标签中selected属性为"selected"的option标签
+            selected_option = select_tag.find('option', selected=True)
+            
+            # 如果找到了selected的option标签，获取其value和text
+            if selected_option:
+                selected_value = selected_option.get('value')  # 获取value值
+                # 将结果存储到字典中
+                id_dict[select_id] = selected_value
+                
+        # print("id_dict:", id_dict)
+        self.id_dict = id_dict
+        logger.info("成功获取到id值！")
+        return None
+        
+
     def get_chase_course_session(self):
         """
         用于开始抢课
         :param None
         :return: None
         """
+
+        # 获取 id 值
+        self._get_id_data()
 
         gnmkdm = 'N253512'  # 自主选课功能代码
         func_name = "自主选课"
@@ -436,8 +487,11 @@ class IZUFE:
 
         return payload  # 返回构建好的 payload，用于后续的 POST 请求
 
-    def _base_post(self, gnmkdm, func_name):
-        _session = self.session
+    def _base_post(self, gnmkdm, func_name, temp=False):
+        if temp:
+            _session = deepcopy(self.session)
+        else:
+            _session = self.session
         _headers = self.headers
         _in_url = self.in_url
 
@@ -530,4 +584,5 @@ class IZUFE:
             "soup": self.soup,
             "headers": self.headers,
         }
+        zufe.update(self.id_dict)
         return zufe

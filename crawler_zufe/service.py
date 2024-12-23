@@ -26,11 +26,11 @@ class BaseService:
         self.session = deepcopy(zufe.get('session'))  # 防止修改原session
         self.courses = kwargs.get('courses')
         # self.clf = get_clf()
-        self.njdm_id =kwargs.get("njdm_id")   # 年级代码
-        self.zyh_id =kwargs.get("zyh_id")   # 专业代码
-        self.bh_id = kwargs.get("bh_id")   # 班号id
-        self.xqh_id = kwargs.get("xqh_id")   # 校区代码
-        self.jd_id = kwargs.get("jd_id")   # 学院代码
+        self.njdm_id =zufe.get("njdm_id")   # 年级代码
+        self.zyh_id =zufe.get("zyh_id")   # 专业代码
+        self.bh_id = zufe.get("bh_id")   # 班号id
+        self.xqh_id = zufe.get("xqh_id")   # 校区代码
+        self.jd_id = zufe.get("jd_id")   # 学院代码
         self.from_email = kwargs.get('from_email', None)
         self.from_email_psw = kwargs.get('from_email_psw', None)
         self.to_email = kwargs.get('to_email', None)
@@ -816,8 +816,8 @@ class CourseService(BaseService):
             }
         payload.update(hidden_elements_dict)
         # print(hidden_elements_dict)
-        with open('payload.json', 'w', encoding='utf-8') as f:
-            json.dump(payload, f, ensure_ascii=False, indent=4)
+        # with open('payload.json', 'w', encoding='utf-8') as f:
+        #     json.dump(payload, f, ensure_ascii=False, indent=4)
         # print(payload)
         # 发送第一次请求
         rsp = self.session.post(click_url, data=payload, headers=self.headers)

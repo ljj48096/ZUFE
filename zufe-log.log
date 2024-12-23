@@ -4196,3 +4196,76 @@
 [2024/12/22 13:56:15 INFO] crawler_zufe.login 当前不属于选课阶段
 [2024/12/22 13:56:16 INFO] crawler_zufe.login 当前不属于选课阶段
 [2024/12/22 13:56:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/23 20:02:50 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 20:02:50 INFO] crawler_zufe.captcha 验证码为: wv97
+[2024/12/23 20:02:50 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 20:02:50 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/23 20:02:50 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/23 20:02:50 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/23 20:02:50 INFO] crawler_zufe.captcha 验证码为: rcmy
+[2024/12/23 20:02:50 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 20:02:50 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/23 20:02:50 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/23 20:02:50 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/23 20:02:50 INFO] crawler_zufe.captcha 验证码为: 7u8x
+[2024/12/23 20:02:50 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 20:02:51 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/23 20:02:51 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/23 20:02:51 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/23 20:03:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 20:03:16 INFO] crawler_zufe.captcha 验证码为: 3x09
+[2024/12/23 20:03:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 20:03:18 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/23 20:03:18 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/23 20:03:18 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/23 20:03:43 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 20:03:43 INFO] crawler_zufe.captcha 验证码为: wy3q
+[2024/12/23 20:03:43 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 20:03:44 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/23 20:03:44 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/23 20:03:44 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/23 23:52:31 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 23:52:31 INFO] crawler_zufe.captcha 验证码为: 6jjd
+[2024/12/23 23:52:31 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 23:52:46 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 23:52:46 INFO] crawler_zufe.captcha 验证码为: x2rb
+[2024/12/23 23:52:46 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 23:52:48 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/23 23:52:48 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/23 23:52:48 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/23 23:54:28 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 23:54:29 INFO] crawler_zufe.captcha 验证码为: q3uj
+[2024/12/23 23:54:29 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 23:54:30 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/23 23:54:30 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/23 23:54:30 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/23 23:59:09 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/23 23:59:09 INFO] crawler_zufe.captcha 验证码为: g6v5
+[2024/12/23 23:59:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/23 23:59:11 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/23 23:59:11 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/23 23:59:12 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 00:05:58 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 00:05:59 INFO] crawler_zufe.captcha 验证码为: r5mj
+[2024/12/24 00:05:59 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 00:06:00 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 00:06:00 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 00:06:00 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 00:08:05 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 00:08:05 INFO] crawler_zufe.captcha 验证码为: dbnw
+[2024/12/24 00:08:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 00:08:06 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 00:08:06 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 00:08:06 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 00:08:24 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 00:08:24 INFO] crawler_zufe.captcha 验证码为: izem
+[2024/12/24 00:08:24 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 00:08:25 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 00:08:25 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 00:08:26 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 00:09:15 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 00:09:16 INFO] crawler_zufe.captcha 验证码为: ndjk
+[2024/12/24 00:09:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 00:09:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 00:09:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 00:09:17 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
