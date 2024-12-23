@@ -48,7 +48,7 @@ def check_config(file_path):
         logger.warning('未检测到通识选修课的配置。')
         elective = None
 
-    net_cos = courses.get('体育课')
+    net_cos = courses.get('网络课程')
     if net_cos and len(net_cos):
         net = dict(common)
         net.update({'courses': net_cos})
