@@ -122,6 +122,10 @@ python ./run.py
 该脚本的大致框架参考了Cyrus97的 [HDU](https://github.com/Cyrus97) ，在此表示感谢。  
 在验证码识别部分，使用了ddddocr的API，感谢[sml2h3](https://github.com/sml2h3/ddddocr)的提供。
 
+## 注意
+
+该脚本仅供学习交流使用，请勿用于商业用途，请遵守方正教务系统的使用规范。
+
 ## 之后可能会搞得优化
 
 - 简化一些键值对的查找，啥啥啥id不用自己去找
