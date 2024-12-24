@@ -95,13 +95,14 @@ def main():
     zufe = IZUFE(username=common.get('username'), password=common.get('password'))
     zufe.login()
     # # 启动选课服务
-    # if not args.only_login:
-        # zufe.get_chase_course_session()
+    if not args.only_login:
+
+        zufe.get_chase_course_session()
         
-    #     # 根据配置文件内各课程状态选择课程
-    #     if elective:  # 通识选修课
-    #         elective_service = CourseService(zufe.extract(), elective)
-    #         elective_service.start("通识选修课")
+        # 根据配置文件内各课程状态选择课程
+        if elective:  # 通识选修课
+            elective_service = CourseService(zufe.extract(), elective)
+            elective_service.start("通识选修课")
         
         # if major:  # 主修课程
         #     major_service = CourseService(zufe.extract(), major)
