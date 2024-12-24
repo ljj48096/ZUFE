@@ -94,7 +94,6 @@ def main():
 
     zufe = IZUFE(username=common.get('username'), password=common.get('password'))
     zufe.login()
-    zufe._get_id_data()
     # # 启动选课服务
     # if not args.only_login:
         # zufe.get_chase_course_session()
