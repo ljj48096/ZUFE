@@ -20,6 +20,7 @@ def check_config(file_path):
     elective = None
     net = None
     major = None
+    ts_fundamental = None
     config = None
     try:
         with open(file_path, 'r', encoding="utf-8") as f:
@@ -48,6 +49,14 @@ def check_config(file_path):
         logger.warning('未检测到通识选修课的配置。')
         elective = None
 
+    ts_fundamental_cos = courses.get('通识基础必修课')
+    if ts_fundamental_cos and len(ts_fundamental_cos):
+        ts_fundamental = dict(common)
+        ts_fundamental.update({'courses': ts_fundamental_cos})
+    else:
+        logger.warning('未检测到通识基础必修课的配置。')
+        ts_fundamental = None
+
     net_cos = courses.get('网络课程')
     if net_cos and len(net_cos):
         net = dict(common)
@@ -67,7 +76,7 @@ def check_config(file_path):
     if not (elective or net or major):
         logger.warning('你未配置任何选课课程，请重新确认配置文件。如果你不需要选课，请忽略本条信息。')
 
-    return common, elective, net, major
+    return common, elective, net, major, ts_fundamental
 
 
 def parse_args():
@@ -90,7 +99,7 @@ def main():
         config_file = DEV_FILE
         logger.warning('当前使用测试配置！')
 
-    common, elective, net, major = check_config(config_file)
+    common, elective, net, major, ts_fundamental = check_config(config_file)
 
     zufe = IZUFE(username=common.get('username'), password=common.get('password'))
     zufe.login()
@@ -103,6 +112,10 @@ def main():
         if elective:  # 通识选修课
             elective_service = CourseService(zufe.extract(), elective)
             elective_service.start("通识选修课")
+        
+        # if ts_fundamental:  # 通识基础必修课
+        #     ts_fundamental_service = CourseService(zufe.extract(), ts_fundamental)
+        #     ts_fundamental_service.start("通识基础必修课")
         
         # if major:  # 主修课程
         #     major_service = CourseService(zufe.extract(), major)

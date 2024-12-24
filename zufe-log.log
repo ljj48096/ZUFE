@@ -4269,3 +4269,2673 @@
 [2024/12/24 00:09:17 INFO] crawler_zufe.login 成功进入信息服务平台！
 [2024/12/24 00:09:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
 [2024/12/24 00:09:17 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 08:09:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 08:09:55 INFO] crawler_zufe.captcha 验证码为: 7963
+[2024/12/24 08:09:55 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 08:09:56 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 08:09:56 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 08:09:56 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 08:09:56 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 08:09:57 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 08:09:57 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 08:09:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:09:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:09:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:09:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:09:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:10:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:10:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:10:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:10:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 08:11:56 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 08:11:56 INFO] crawler_zufe.captcha 验证码为: qsr4
+[2024/12/24 08:11:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 08:11:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 08:11:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 08:11:57 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 08:11:58 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 08:11:58 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 08:11:58 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 08:11:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:34 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 09:13:34 INFO] crawler_zufe.captcha 验证码为: sc9w
+[2024/12/24 09:13:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 09:13:35 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 09:13:35 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 09:13:35 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 09:13:36 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 09:13:36 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 09:13:36 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 09:13:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 09:13:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:10:06 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:10:06 INFO] crawler_zufe.captcha 验证码为: rmav
+[2024/12/24 11:10:06 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:19 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:10:19 INFO] crawler_zufe.captcha 验证码为: 9suf
+[2024/12/24 11:10:19 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:19 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:19 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:10:19 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:10:19 INFO] crawler_zufe.captcha 验证码为: erjc
+[2024/12/24 11:10:19 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:19 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:19 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:10:19 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:10:20 INFO] crawler_zufe.captcha 验证码为: itef
+[2024/12/24 11:10:20 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:20 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:20 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:10:20 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:10:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:10:56 INFO] crawler_zufe.captcha 验证码为: gbp3
+[2024/12/24 11:10:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:10:56 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:10:56 INFO] crawler_zufe.captcha 验证码为: 9yzu
+[2024/12/24 11:10:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:10:56 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:10:56 INFO] crawler_zufe.captcha 验证码为: biyi
+[2024/12/24 11:10:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:10:56 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:10:57 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:11:08 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:11:08 INFO] crawler_zufe.captcha 验证码为: qpm4
+[2024/12/24 11:11:08 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:08 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:08 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:11:08 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:11:09 INFO] crawler_zufe.captcha 验证码为: 7qqy
+[2024/12/24 11:11:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:09 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:09 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:11:09 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:11:09 INFO] crawler_zufe.captcha 验证码为: kvjb
+[2024/12/24 11:11:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:09 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:09 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:11:09 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:11:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:11:16 INFO] crawler_zufe.captcha 验证码为: yqb3
+[2024/12/24 11:11:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:26 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:11:26 INFO] crawler_zufe.captcha 验证码为: k9mk
+[2024/12/24 11:11:26 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:42 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:11:42 INFO] crawler_zufe.captcha 验证码为: 6mp3
+[2024/12/24 11:11:42 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:11:42 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:11:42 INFO] crawler_zufe.captcha 验证码为: qupr
+[2024/12/24 11:11:42 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:11:42 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:11:42 INFO] crawler_zufe.captcha 验证码为: 9q4v
+[2024/12/24 11:11:42 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:11:42 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:12:05 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:12:05 INFO] crawler_zufe.captcha 验证码为: 1fd9
+[2024/12/24 11:12:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:12:05 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:12:05 INFO] crawler_zufe.captcha 验证码为: 8bj8
+[2024/12/24 11:12:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:12:05 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:12:05 INFO] crawler_zufe.captcha 验证码为: 1kjo
+[2024/12/24 11:12:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:12:05 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:12:46 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:12:47 INFO] crawler_zufe.captcha 验证码为: mym5
+[2024/12/24 11:12:47 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:12:47 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 11:12:47 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 11:12:48 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 11:12:48 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 11:12:49 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 11:12:49 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 11:12:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:12:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:12:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:15:56 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:15:56 INFO] crawler_zufe.captcha 验证码为: 7xmd
+[2024/12/24 11:15:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:15:56 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:15:56 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:15:56 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:15:57 INFO] crawler_zufe.captcha 验证码为: hhbm
+[2024/12/24 11:15:57 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:15:57 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:15:57 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:15:57 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:15:57 INFO] crawler_zufe.captcha 验证码为: g1x0
+[2024/12/24 11:15:57 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:15:57 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:15:57 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:15:57 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:16:09 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:16:09 INFO] crawler_zufe.captcha 验证码为: 3c87
+[2024/12/24 11:16:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:09 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:09 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:16:09 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:16:09 INFO] crawler_zufe.captcha 验证码为: crj2
+[2024/12/24 11:16:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:10 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:10 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:16:10 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:16:10 INFO] crawler_zufe.captcha 验证码为: 0sbw
+[2024/12/24 11:16:10 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:10 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:10 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:16:10 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:16:21 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:16:21 INFO] crawler_zufe.captcha 验证码为: 91qs
+[2024/12/24 11:16:21 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:21 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:21 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 11:16:21 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 11:16:21 INFO] crawler_zufe.captcha 验证码为: 059b
+[2024/12/24 11:16:21 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:21 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:21 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 11:16:21 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 11:16:22 INFO] crawler_zufe.captcha 验证码为: bfw2
+[2024/12/24 11:16:22 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:22 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 11:16:22 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 11:16:22 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 11:16:35 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 11:16:35 INFO] crawler_zufe.captcha 验证码为: 6xmb
+[2024/12/24 11:16:35 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 11:16:36 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 11:16:36 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 11:16:37 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 11:16:38 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 11:16:38 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 11:16:38 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 11:16:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:16:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:16:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 11:16:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:21 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 12:23:21 INFO] crawler_zufe.captcha 验证码为: owt7
+[2024/12/24 12:23:21 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:21 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 12:23:21 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 12:23:21 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 12:23:21 INFO] crawler_zufe.captcha 验证码为: eoqr
+[2024/12/24 12:23:21 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:21 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 12:23:21 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 12:23:21 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 12:23:22 INFO] crawler_zufe.captcha 验证码为: c4t4
+[2024/12/24 12:23:22 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:22 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 12:23:23 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 12:23:23 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 12:23:24 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 12:23:24 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 12:23:24 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 12:23:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:31 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 12:23:32 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 12:23:32 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 12:23:32 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 12:23:32 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 12:23:32 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 12:23:33 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:33 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 12:23:33 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 12:23:33 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 12:23:33 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 12:23:40 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 12:23:40 INFO] crawler_zufe.captcha 验证码为: 79zj
+[2024/12/24 12:23:40 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 12:23:41 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 12:23:41 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 12:23:41 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 12:23:42 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 12:23:42 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 12:23:43 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 12:23:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 12:23:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:21 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:09:21 INFO] crawler_zufe.captcha 验证码为: ep7c
+[2024/12/24 13:09:21 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:09:22 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:09:22 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:09:22 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:09:23 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:09:23 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:09:23 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:09:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:09:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:15:27 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:15:46 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:15:46 INFO] crawler_zufe.captcha 验证码为: egak
+[2024/12/24 13:15:46 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:15:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:15:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:16:00 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:16:03 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:16:03 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:16:03 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:16:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:16:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:06 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:17:06 INFO] crawler_zufe.captcha 验证码为: smed
+[2024/12/24 13:17:06 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:17:07 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:17:22 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:17:22 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:17:22 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 13:17:22 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 13:17:22 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 13:17:22 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 13:17:23 INFO] crawler_zufe.captcha 验证码为: 3fd1
+[2024/12/24 13:17:23 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:17:24 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:17:24 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:17:24 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:17:25 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:17:25 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:17:26 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:17:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:17:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:18:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:19:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:20:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:21:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:22:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:23:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:24:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:25:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:49 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:26:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:13 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:20 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:38 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:27:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:02 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:08 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:18 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:19 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:21 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:22 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:23 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:24 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:28 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:33 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:44 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:55 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:28:59 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:01 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:04 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:05 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:06 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:07 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:09 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:10 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:11 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:12 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:14 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:15 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:16 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:17 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:25 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:26 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:27 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:29 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:30 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:31 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:32 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:34 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:35 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:36 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:37 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:39 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:40 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:41 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:42 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:43 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:45 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:46 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:47 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:48 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:50 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:51 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:52 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:53 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:54 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:56 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:57 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:29:58 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:30:00 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:30:03 INFO] crawler_zufe.login 当前不属于选课阶段
+[2024/12/24 13:30:10 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:30:10 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:31:22 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:31:33 INFO] crawler_zufe.captcha 验证码为: d54x
+[2024/12/24 13:31:33 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:31:36 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 13:31:36 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 13:31:36 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 13:31:39 INFO] crawler_zufe.captcha 验证码为: 8z5w
+[2024/12/24 13:31:39 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:31:42 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 13:31:42 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 13:31:42 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 13:31:44 INFO] crawler_zufe.captcha 验证码为: gfdt
+[2024/12/24 13:31:44 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:32:15 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:32:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:32:55 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:33:08 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:33:11 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:33:26 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:33:43 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:33:43 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:34:14 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:34:30 INFO] crawler_zufe.captcha 验证码为: 6wcc
+[2024/12/24 13:34:30 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:35:06 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:35:11 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:35:29 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:35:50 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:35:54 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:36:14 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:36:32 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:36:32 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:40:01 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:40:03 INFO] crawler_zufe.captcha 验证码为: brwy
+[2024/12/24 13:40:03 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:40:40 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:40:42 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:41:00 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:41:28 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:41:30 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:41:50 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:42:08 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:42:08 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:42:54 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:42:57 INFO] crawler_zufe.captcha 验证码为: iiuu
+[2024/12/24 13:42:57 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:43:49 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:43:52 INFO] crawler_zufe.captcha 验证码为: cvx1
+[2024/12/24 13:43:52 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:44:26 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:44:29 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:44:51 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:45:19 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:45:22 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:45:42 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:45:58 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:45:58 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:46:13 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 13:46:22 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 13:46:30 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 13:46:41 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 13:46:45 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 13:46:53 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 13:46:58 INFO] crawler_zufe.service <中华精神文明十二讲>第4次尝试选课...
+[2024/12/24 13:47:08 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第4次没选上。即将重试
+[2024/12/24 13:47:14 INFO] crawler_zufe.service <中华精神文明十二讲>第5次尝试选课...
+[2024/12/24 13:47:21 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第5次没选上。即将重试
+[2024/12/24 13:47:27 INFO] crawler_zufe.service <中华精神文明十二讲>第6次尝试选课...
+[2024/12/24 13:47:36 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第6次没选上。即将重试
+[2024/12/24 13:47:41 INFO] crawler_zufe.service <中华精神文明十二讲>第7次尝试选课...
+[2024/12/24 13:47:53 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第7次没选上。即将重试
+[2024/12/24 13:47:59 INFO] crawler_zufe.service <中华精神文明十二讲>第8次尝试选课...
+[2024/12/24 13:48:09 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第8次没选上。即将重试
+[2024/12/24 13:48:15 INFO] crawler_zufe.service <中华精神文明十二讲>第9次尝试选课...
+[2024/12/24 13:48:23 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第9次没选上。即将重试
+[2024/12/24 13:48:28 INFO] crawler_zufe.service <中华精神文明十二讲>第10次尝试选课...
+[2024/12/24 13:48:34 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第10次没选上。即将重试
+[2024/12/24 13:48:39 INFO] crawler_zufe.service <中华精神文明十二讲>第11次尝试选课...
+[2024/12/24 13:48:48 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第11次没选上。即将重试
+[2024/12/24 13:48:53 INFO] crawler_zufe.service <中华精神文明十二讲>第12次尝试选课...
+[2024/12/24 13:49:03 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第12次没选上。即将重试
+[2024/12/24 13:49:08 INFO] crawler_zufe.service <中华精神文明十二讲>第13次尝试选课...
+[2024/12/24 13:49:19 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第13次没选上。即将重试
+[2024/12/24 13:49:24 INFO] crawler_zufe.service <中华精神文明十二讲>第14次尝试选课...
+[2024/12/24 13:49:33 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第14次没选上。即将重试
+[2024/12/24 13:49:37 INFO] crawler_zufe.service <中华精神文明十二讲>第15次尝试选课...
+[2024/12/24 13:49:46 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第15次没选上。即将重试
+[2024/12/24 13:49:50 INFO] crawler_zufe.service <中华精神文明十二讲>第16次尝试选课...
+[2024/12/24 13:49:58 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第16次没选上。即将重试
+[2024/12/24 13:50:04 INFO] crawler_zufe.service <中华精神文明十二讲>第17次尝试选课...
+[2024/12/24 13:50:10 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第17次没选上。即将重试
+[2024/12/24 13:50:15 INFO] crawler_zufe.service <中华精神文明十二讲>第18次尝试选课...
+[2024/12/24 13:50:23 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第18次没选上。即将重试
+[2024/12/24 13:50:29 INFO] crawler_zufe.service <中华精神文明十二讲>第19次尝试选课...
+[2024/12/24 13:50:37 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第19次没选上。即将重试
+[2024/12/24 13:50:42 INFO] crawler_zufe.service <中华精神文明十二讲>第20次尝试选课...
+[2024/12/24 13:50:50 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第20次没选上。即将重试
+[2024/12/24 13:50:57 INFO] crawler_zufe.service <中华精神文明十二讲>第21次尝试选课...
+[2024/12/24 13:51:03 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第21次没选上。即将重试
+[2024/12/24 13:51:08 INFO] crawler_zufe.service <中华精神文明十二讲>第22次尝试选课...
+[2024/12/24 13:51:17 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第22次没选上。即将重试
+[2024/12/24 13:51:22 INFO] crawler_zufe.service <中华精神文明十二讲>第23次尝试选课...
+[2024/12/24 13:51:30 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第23次没选上。即将重试
+[2024/12/24 13:51:36 INFO] crawler_zufe.service <中华精神文明十二讲>第24次尝试选课...
+[2024/12/24 13:51:45 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第24次没选上。即将重试
+[2024/12/24 13:51:50 INFO] crawler_zufe.service <中华精神文明十二讲>第25次尝试选课...
+[2024/12/24 13:52:00 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第25次没选上。即将重试
+[2024/12/24 13:52:06 INFO] crawler_zufe.service <中华精神文明十二讲>第26次尝试选课...
+[2024/12/24 13:52:14 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第26次没选上。即将重试
+[2024/12/24 13:52:19 INFO] crawler_zufe.service <中华精神文明十二讲>第27次尝试选课...
+[2024/12/24 13:52:27 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第27次没选上。即将重试
+[2024/12/24 13:52:33 INFO] crawler_zufe.service <中华精神文明十二讲>第28次尝试选课...
+[2024/12/24 13:52:39 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第28次没选上。即将重试
+[2024/12/24 13:52:46 INFO] crawler_zufe.service <中华精神文明十二讲>第29次尝试选课...
+[2024/12/24 13:52:53 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第29次没选上。即将重试
+[2024/12/24 13:52:57 INFO] crawler_zufe.service <中华精神文明十二讲>第30次尝试选课...
+[2024/12/24 13:53:03 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第30次没选上。即将重试
+[2024/12/24 13:53:08 INFO] crawler_zufe.service <中华精神文明十二讲>第31次尝试选课...
+[2024/12/24 13:53:16 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第31次没选上。即将重试
+[2024/12/24 13:53:24 INFO] crawler_zufe.service <中华精神文明十二讲>第32次尝试选课...
+[2024/12/24 13:53:30 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第32次没选上。即将重试
+[2024/12/24 13:53:35 INFO] crawler_zufe.service <中华精神文明十二讲>第33次尝试选课...
+[2024/12/24 13:53:39 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第33次没选上。即将重试
+[2024/12/24 13:53:42 INFO] crawler_zufe.service <中华精神文明十二讲>第34次尝试选课...
+[2024/12/24 13:53:46 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第34次没选上。即将重试
+[2024/12/24 13:53:49 INFO] crawler_zufe.service <中华精神文明十二讲>第35次尝试选课...
+[2024/12/24 13:53:51 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第35次没选上。即将重试
+[2024/12/24 13:53:54 INFO] crawler_zufe.service <中华精神文明十二讲>第36次尝试选课...
+[2024/12/24 13:53:55 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第36次没选上。即将重试
+[2024/12/24 13:53:57 INFO] crawler_zufe.service <中华精神文明十二讲>第37次尝试选课...
+[2024/12/24 13:53:58 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第37次没选上。即将重试
+[2024/12/24 13:54:00 INFO] crawler_zufe.service <中华精神文明十二讲>第38次尝试选课...
+[2024/12/24 13:54:02 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第38次没选上。即将重试
+[2024/12/24 13:54:03 INFO] crawler_zufe.service <中华精神文明十二讲>第39次尝试选课...
+[2024/12/24 13:54:04 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第39次没选上。即将重试
+[2024/12/24 13:54:06 INFO] crawler_zufe.service <中华精神文明十二讲>第40次尝试选课...
+[2024/12/24 13:54:07 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第40次没选上。即将重试
+[2024/12/24 13:54:08 INFO] crawler_zufe.service <中华精神文明十二讲>第41次尝试选课...
+[2024/12/24 13:54:09 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第41次没选上。即将重试
+[2024/12/24 13:54:11 INFO] crawler_zufe.service <中华精神文明十二讲>第42次尝试选课...
+[2024/12/24 13:54:11 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第42次没选上。即将重试
+[2024/12/24 13:54:13 INFO] crawler_zufe.service <中华精神文明十二讲>第43次尝试选课...
+[2024/12/24 13:54:13 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第43次没选上。即将重试
+[2024/12/24 13:54:15 INFO] crawler_zufe.service <中华精神文明十二讲>第44次尝试选课...
+[2024/12/24 13:54:15 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第44次没选上。即将重试
+[2024/12/24 13:54:16 INFO] crawler_zufe.service <中华精神文明十二讲>第45次尝试选课...
+[2024/12/24 13:54:17 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第45次没选上。即将重试
+[2024/12/24 13:54:19 INFO] crawler_zufe.service <中华精神文明十二讲>第46次尝试选课...
+[2024/12/24 13:54:19 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第46次没选上。即将重试
+[2024/12/24 13:54:20 INFO] crawler_zufe.service <中华精神文明十二讲>第47次尝试选课...
+[2024/12/24 13:54:21 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第47次没选上。即将重试
+[2024/12/24 13:54:22 INFO] crawler_zufe.service <中华精神文明十二讲>第48次尝试选课...
+[2024/12/24 13:54:22 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第48次没选上。即将重试
+[2024/12/24 13:54:24 INFO] crawler_zufe.service <中华精神文明十二讲>第49次尝试选课...
+[2024/12/24 13:54:24 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第49次没选上。即将重试
+[2024/12/24 13:54:25 INFO] crawler_zufe.service <中华精神文明十二讲>第50次尝试选课...
+[2024/12/24 13:54:25 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第50次没选上。即将重试
+[2024/12/24 13:54:27 INFO] crawler_zufe.service <中华精神文明十二讲>第51次尝试选课...
+[2024/12/24 13:54:27 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第51次没选上。即将重试
+[2024/12/24 13:54:28 INFO] crawler_zufe.service <中华精神文明十二讲>第52次尝试选课...
+[2024/12/24 13:54:29 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第52次没选上。即将重试
+[2024/12/24 13:54:30 INFO] crawler_zufe.service <中华精神文明十二讲>第53次尝试选课...
+[2024/12/24 13:54:30 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第53次没选上。即将重试
+[2024/12/24 13:54:32 INFO] crawler_zufe.service <中华精神文明十二讲>第54次尝试选课...
+[2024/12/24 13:54:32 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第54次没选上。即将重试
+[2024/12/24 13:54:33 INFO] crawler_zufe.service <中华精神文明十二讲>第55次尝试选课...
+[2024/12/24 13:54:33 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第55次没选上。即将重试
+[2024/12/24 13:54:35 INFO] crawler_zufe.service <中华精神文明十二讲>第56次尝试选课...
+[2024/12/24 13:54:35 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第56次没选上。即将重试
+[2024/12/24 13:54:36 INFO] crawler_zufe.service <中华精神文明十二讲>第57次尝试选课...
+[2024/12/24 13:54:36 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第57次没选上。即将重试
+[2024/12/24 13:54:38 INFO] crawler_zufe.service <中华精神文明十二讲>第58次尝试选课...
+[2024/12/24 13:54:38 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第58次没选上。即将重试
+[2024/12/24 13:54:39 INFO] crawler_zufe.service <中华精神文明十二讲>第59次尝试选课...
+[2024/12/24 13:54:39 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第59次没选上。即将重试
+[2024/12/24 13:54:52 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:54:52 INFO] crawler_zufe.captcha 验证码为: ir5o
+[2024/12/24 13:54:52 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:54:52 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 13:54:52 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 13:54:52 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 13:54:53 INFO] crawler_zufe.captcha 验证码为: fyv1
+[2024/12/24 13:54:53 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:54:54 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:54:54 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:54:54 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:54:55 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:54:55 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:54:56 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:54:56 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:54:56 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:54:57 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 13:54:57 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 13:54:58 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 13:54:58 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 13:55:00 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 13:55:00 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 13:55:01 INFO] crawler_zufe.service <中华精神文明十二讲>第4次尝试选课...
+[2024/12/24 13:55:01 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第4次没选上。即将重试
+[2024/12/24 13:55:03 INFO] crawler_zufe.service <中华精神文明十二讲>第5次尝试选课...
+[2024/12/24 13:55:03 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第5次没选上。即将重试
+[2024/12/24 13:55:04 INFO] crawler_zufe.service <中华精神文明十二讲>第6次尝试选课...
+[2024/12/24 13:55:05 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第6次没选上。即将重试
+[2024/12/24 13:55:06 INFO] crawler_zufe.service <中华精神文明十二讲>第7次尝试选课...
+[2024/12/24 13:55:06 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第7次没选上。即将重试
+[2024/12/24 13:55:17 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:55:17 INFO] crawler_zufe.captcha 验证码为: wma1
+[2024/12/24 13:55:17 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:55:18 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:55:18 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:55:19 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:55:20 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:55:20 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:55:20 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:55:21 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:55:21 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:55:39 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:55:39 INFO] crawler_zufe.captcha 验证码为: 8tfd
+[2024/12/24 13:55:39 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:55:40 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:55:40 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:55:41 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:55:41 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:55:41 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:55:42 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:55:42 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:55:42 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:55:42 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 13:55:43 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 13:55:44 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 13:55:44 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 13:55:45 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 13:55:45 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 13:55:47 INFO] crawler_zufe.service <中华精神文明十二讲>第4次尝试选课...
+[2024/12/24 13:55:47 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第4次没选上。即将重试
+[2024/12/24 13:55:48 INFO] crawler_zufe.service <中华精神文明十二讲>第5次尝试选课...
+[2024/12/24 13:55:48 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第5次没选上。即将重试
+[2024/12/24 13:55:49 INFO] crawler_zufe.service <中华精神文明十二讲>第6次尝试选课...
+[2024/12/24 13:55:49 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第6次没选上。即将重试
+[2024/12/24 13:55:51 INFO] crawler_zufe.service <中华精神文明十二讲>第7次尝试选课...
+[2024/12/24 13:55:51 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第7次没选上。即将重试
+[2024/12/24 13:55:52 INFO] crawler_zufe.service <中华精神文明十二讲>第8次尝试选课...
+[2024/12/24 13:55:52 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第8次没选上。即将重试
+[2024/12/24 13:55:53 INFO] crawler_zufe.service <中华精神文明十二讲>第9次尝试选课...
+[2024/12/24 13:55:54 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第9次没选上。即将重试
+[2024/12/24 13:55:55 INFO] crawler_zufe.service <中华精神文明十二讲>第10次尝试选课...
+[2024/12/24 13:55:55 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第10次没选上。即将重试
+[2024/12/24 13:58:33 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:58:33 INFO] crawler_zufe.captcha 验证码为: qxrf
+[2024/12/24 13:58:33 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:58:34 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:58:34 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:58:35 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:58:35 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:58:35 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:58:35 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:58:36 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:58:36 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:58:36 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 13:58:36 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 13:58:37 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 13:58:37 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 13:58:38 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 13:58:38 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 13:58:40 INFO] crawler_zufe.service <中华精神文明十二讲>第4次尝试选课...
+[2024/12/24 13:58:40 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第4次没选上。即将重试
+[2024/12/24 13:58:41 INFO] crawler_zufe.service <中华精神文明十二讲>第5次尝试选课...
+[2024/12/24 13:58:41 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第5次没选上。即将重试
+[2024/12/24 13:58:42 INFO] crawler_zufe.service <中华精神文明十二讲>第6次尝试选课...
+[2024/12/24 13:58:42 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第6次没选上。即将重试
+[2024/12/24 13:59:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 13:59:16 INFO] crawler_zufe.captcha 验证码为: 6w2u
+[2024/12/24 13:59:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 13:59:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 13:59:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 13:59:17 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 13:59:18 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 13:59:18 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 13:59:19 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 13:59:19 INFO] crawler_zufe.login 选课开始
+[2024/12/24 13:59:19 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 13:59:19 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 13:59:20 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 13:59:21 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 13:59:21 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 13:59:22 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 13:59:22 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 13:59:24 INFO] crawler_zufe.service <中华精神文明十二讲>第4次尝试选课...
+[2024/12/24 13:59:24 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第4次没选上。即将重试
+[2024/12/24 13:59:25 INFO] crawler_zufe.service <中华精神文明十二讲>第5次尝试选课...
+[2024/12/24 13:59:25 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第5次没选上。即将重试
+[2024/12/24 13:59:26 INFO] crawler_zufe.service <中华精神文明十二讲>第6次尝试选课...
+[2024/12/24 13:59:26 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第6次没选上。即将重试
+[2024/12/24 14:00:04 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:00:05 INFO] crawler_zufe.captcha 验证码为: c5hj
+[2024/12/24 14:00:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:00:06 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:00:06 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:00:06 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:00:07 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:00:07 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:00:07 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:00:07 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:00:07 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:00:07 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 14:00:08 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 14:00:09 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 14:00:09 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 14:01:20 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:01:20 INFO] crawler_zufe.captcha 验证码为: ygqb
+[2024/12/24 14:01:20 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:01:21 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:01:21 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:01:22 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:01:22 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:01:22 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:01:23 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:01:23 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:01:23 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:01:23 INFO] crawler_zufe.service <中华精神文明十二讲>第1次尝试选课...
+[2024/12/24 14:01:23 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第1次没选上。即将重试
+[2024/12/24 14:01:25 INFO] crawler_zufe.service <中华精神文明十二讲>第2次尝试选课...
+[2024/12/24 14:01:25 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第2次没选上。即将重试
+[2024/12/24 14:01:26 INFO] crawler_zufe.service <中华精神文明十二讲>第3次尝试选课...
+[2024/12/24 14:01:26 INFO] crawler_zufe.service 通识选修课课程<中华精神文明十二讲>第3次没选上。即将重试
+[2024/12/24 14:03:24 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:03:24 INFO] crawler_zufe.captcha 验证码为: 7b4w
+[2024/12/24 14:03:24 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:03:25 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:03:25 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:03:25 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:03:26 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:03:26 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:03:26 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:03:26 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:03:26 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:03:27 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:03:27 INFO] crawler_zufe.service 通识选修课课程<中华>第1次没选上。即将重试
+[2024/12/24 14:03:28 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:03:28 INFO] crawler_zufe.service 通识选修课课程<中华>第2次没选上。即将重试
+[2024/12/24 14:03:30 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:03:30 INFO] crawler_zufe.service 通识选修课课程<中华>第3次没选上。即将重试
+[2024/12/24 14:04:34 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:04:34 INFO] crawler_zufe.captcha 验证码为: 8qef
+[2024/12/24 14:04:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:04:35 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:04:35 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:04:35 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:04:36 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:04:36 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:04:36 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:04:36 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:04:36 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:04:37 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:04:37 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:04:38 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:04:38 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:04:39 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:04:40 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:04:41 INFO] crawler_zufe.service <中华>第4次尝试选课...
+[2024/12/24 14:04:41 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第4次没选上。即将重试
+[2024/12/24 14:04:42 INFO] crawler_zufe.service <中华>第5次尝试选课...
+[2024/12/24 14:04:42 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第5次没选上。即将重试
+[2024/12/24 14:04:43 INFO] crawler_zufe.service <中华>第6次尝试选课...
+[2024/12/24 14:04:43 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第6次没选上。即将重试
+[2024/12/24 14:04:45 INFO] crawler_zufe.service <中华>第7次尝试选课...
+[2024/12/24 14:04:45 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第7次没选上。即将重试
+[2024/12/24 14:04:46 INFO] crawler_zufe.service <中华>第8次尝试选课...
+[2024/12/24 14:04:46 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第8次没选上。即将重试
+[2024/12/24 14:04:47 INFO] crawler_zufe.service <中华>第9次尝试选课...
+[2024/12/24 14:04:47 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第9次没选上。即将重试
+[2024/12/24 14:04:49 INFO] crawler_zufe.service <中华>第10次尝试选课...
+[2024/12/24 14:04:49 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第10次没选上。即将重试
+[2024/12/24 14:04:50 INFO] crawler_zufe.service <中华>第11次尝试选课...
+[2024/12/24 14:04:50 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第11次没选上。即将重试
+[2024/12/24 14:04:51 INFO] crawler_zufe.service <中华>第12次尝试选课...
+[2024/12/24 14:04:51 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第12次没选上。即将重试
+[2024/12/24 14:04:52 INFO] crawler_zufe.service <中华>第13次尝试选课...
+[2024/12/24 14:04:53 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第13次没选上。即将重试
+[2024/12/24 14:04:54 INFO] crawler_zufe.service <中华>第14次尝试选课...
+[2024/12/24 14:04:54 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第14次没选上。即将重试
+[2024/12/24 14:04:55 INFO] crawler_zufe.service <中华>第15次尝试选课...
+[2024/12/24 14:04:55 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第15次没选上。即将重试
+[2024/12/24 14:04:56 INFO] crawler_zufe.service <中华>第16次尝试选课...
+[2024/12/24 14:04:57 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第16次没选上。即将重试
+[2024/12/24 14:04:58 INFO] crawler_zufe.service <中华>第17次尝试选课...
+[2024/12/24 14:04:58 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第17次没选上。即将重试
+[2024/12/24 14:04:59 INFO] crawler_zufe.service <中华>第18次尝试选课...
+[2024/12/24 14:04:59 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第18次没选上。即将重试
+[2024/12/24 14:05:00 INFO] crawler_zufe.service <中华>第19次尝试选课...
+[2024/12/24 14:05:00 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第19次没选上。即将重试
+[2024/12/24 14:06:00 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:06:00 INFO] crawler_zufe.captcha 验证码为: wdvx
+[2024/12/24 14:06:00 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:06:01 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:06:01 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:06:01 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:06:02 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:06:02 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:06:03 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:06:03 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:06:03 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:06:03 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:06:03 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:06:04 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:06:04 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:06:06 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:06:06 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:06:07 INFO] crawler_zufe.service <中华>第4次尝试选课...
+[2024/12/24 14:06:07 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第4次没选上。即将重试
+[2024/12/24 14:06:08 INFO] crawler_zufe.service <中华>第5次尝试选课...
+[2024/12/24 14:06:09 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第5次没选上。即将重试
+[2024/12/24 14:06:54 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:06:54 INFO] crawler_zufe.captcha 验证码为: 83mt
+[2024/12/24 14:06:54 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:06:55 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:06:55 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:06:55 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:06:56 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:06:56 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:06:56 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:06:56 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:06:56 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:06:57 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:06:57 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:06:58 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:06:58 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:07:00 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:07:00 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:07:01 INFO] crawler_zufe.service <中华>第4次尝试选课...
+[2024/12/24 14:07:01 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第4次没选上。即将重试
+[2024/12/24 14:07:02 INFO] crawler_zufe.service <中华>第5次尝试选课...
+[2024/12/24 14:07:02 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第5次没选上。即将重试
+[2024/12/24 14:10:28 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:10:28 INFO] crawler_zufe.captcha 验证码为: 4kx7
+[2024/12/24 14:10:28 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:10:29 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:10:29 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:10:29 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:10:30 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:10:30 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:10:30 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:10:30 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:10:30 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:10:30 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:10:30 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:10:32 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:10:32 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:10:33 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:10:33 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:10:34 INFO] crawler_zufe.service <中华>第4次尝试选课...
+[2024/12/24 14:10:34 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第4次没选上。即将重试
+[2024/12/24 14:10:35 INFO] crawler_zufe.service <中华>第5次尝试选课...
+[2024/12/24 14:11:51 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:11:51 INFO] crawler_zufe.captcha 验证码为: di22
+[2024/12/24 14:11:51 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:11:52 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:11:52 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:11:52 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:11:53 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:11:53 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:11:53 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:11:53 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:11:53 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:11:53 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:11:54 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:11:55 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:11:55 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:11:56 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:11:56 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:11:57 INFO] crawler_zufe.service <中华>第4次尝试选课...
+[2024/12/24 14:11:57 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第4次没选上。即将重试
+[2024/12/24 14:16:08 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:16:09 INFO] crawler_zufe.captcha 验证码为: hje8
+[2024/12/24 14:16:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:16:09 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:16:10 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:16:10 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:16:11 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:16:11 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:16:11 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:16:11 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:16:11 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:16:11 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:16:12 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:16:13 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:16:13 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:16:14 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:16:14 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:16:18 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:16:18 INFO] crawler_zufe.captcha 验证码为: oqmp
+[2024/12/24 14:16:18 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:16:19 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 14:16:19 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 14:16:19 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 14:16:19 INFO] crawler_zufe.captcha 验证码为: g9tq
+[2024/12/24 14:16:19 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:16:20 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:16:20 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:16:20 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:16:21 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:16:21 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:16:22 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:16:22 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:16:22 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:16:22 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:16:22 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:16:24 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:16:24 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:16:25 INFO] crawler_zufe.service <中华>第3次尝试选课...
+[2024/12/24 14:16:25 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第3次没选上。即将重试
+[2024/12/24 14:16:35 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:16:35 INFO] crawler_zufe.captcha 验证码为: qshp
+[2024/12/24 14:16:35 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:16:36 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:16:36 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:16:36 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:16:37 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:16:37 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:16:37 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:16:37 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:16:37 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:16:38 INFO] crawler_zufe.service <中华>第1次尝试选课...
+[2024/12/24 14:16:38 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第1次没选上。即将重试
+[2024/12/24 14:16:39 INFO] crawler_zufe.service <中华>第2次尝试选课...
+[2024/12/24 14:16:39 INFO] crawler_zufe.service 通识选修课课程<中华人民共和国经济史>第2次没选上。即将重试
+[2024/12/24 14:17:36 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:17:37 INFO] crawler_zufe.captcha 验证码为: tr39
+[2024/12/24 14:17:37 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:17:38 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:17:38 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:17:38 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:17:38 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:17:38 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:17:39 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:17:39 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:17:39 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:17:39 INFO] crawler_zufe.service <信息素养与实践>第1次尝试选课...
+[2024/12/24 14:17:39 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第1次没选上。即将重试
+[2024/12/24 14:17:40 INFO] crawler_zufe.service <信息素养与实践>第2次尝试选课...
+[2024/12/24 14:17:40 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第2次没选上。即将重试
+[2024/12/24 14:17:42 INFO] crawler_zufe.service <信息素养与实践>第3次尝试选课...
+[2024/12/24 14:17:42 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第3次没选上。即将重试
+[2024/12/24 14:18:20 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:18:20 INFO] crawler_zufe.captcha 验证码为: y916
+[2024/12/24 14:18:20 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:18:21 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:18:21 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:18:21 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:18:22 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:18:22 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:18:22 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:18:22 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:18:22 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:18:22 INFO] crawler_zufe.service <信息素养与实践>第1次尝试选课...
+[2024/12/24 14:18:22 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第1次没选上。即将重试
+[2024/12/24 14:18:24 INFO] crawler_zufe.service <信息素养与实践>第2次尝试选课...
+[2024/12/24 14:18:24 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第2次没选上。即将重试
+[2024/12/24 14:18:25 INFO] crawler_zufe.service <信息素养与实践>第3次尝试选课...
+[2024/12/24 14:18:25 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第3次没选上。即将重试
+[2024/12/24 14:18:26 INFO] crawler_zufe.service <信息素养与实践>第4次尝试选课...
+[2024/12/24 14:18:26 INFO] crawler_zufe.service 通识选修课课程<信息素养与实践>第4次没选上。即将重试
+[2024/12/24 14:19:22 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:19:22 INFO] crawler_zufe.captcha 验证码为: stnw
+[2024/12/24 14:19:22 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:19:22 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:19:22 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:19:23 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:19:23 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:19:23 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:19:23 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:19:24 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:19:24 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:19:24 INFO] crawler_zufe.service <电子商务英语>第1次尝试选课...
+[2024/12/24 14:19:24 INFO] crawler_zufe.service 通识选修课课程<电子商务英语>第1次没选上。即将重试
+[2024/12/24 14:19:25 INFO] crawler_zufe.service <电子商务英语>第2次尝试选课...
+[2024/12/24 14:19:25 INFO] crawler_zufe.service 通识选修课课程<电子商务英语>第2次没选上。即将重试
+[2024/12/24 14:19:26 INFO] crawler_zufe.service <电子商务英语>第3次尝试选课...
+[2024/12/24 14:19:26 INFO] crawler_zufe.service 通识选修课课程<电子商务英语>第3次没选上。即将重试
+[2024/12/24 14:19:28 INFO] crawler_zufe.service <电子商务英语>第4次尝试选课...
+[2024/12/24 14:19:28 INFO] crawler_zufe.service 通识选修课课程<电子商务英语>第4次没选上。即将重试
+[2024/12/24 14:28:13 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:28:14 INFO] crawler_zufe.captcha 验证码为: odd3
+[2024/12/24 14:28:14 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:28:14 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 14:28:14 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 14:28:14 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 14:28:14 INFO] crawler_zufe.captcha 验证码为: arc2
+[2024/12/24 14:28:14 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:28:15 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:28:15 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:28:15 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:28:16 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:28:16 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:28:16 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:28:17 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:28:17 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:28:17 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 14:28:17 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 14:28:18 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 14:28:18 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 14:32:02 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:32:02 INFO] crawler_zufe.captcha 验证码为: gbnp
+[2024/12/24 14:32:02 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:32:03 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:32:03 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:32:03 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:32:04 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:32:04 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:32:04 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:32:04 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:32:04 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:32:05 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 14:32:05 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 14:32:06 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 14:32:06 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 14:32:07 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 14:32:07 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 14:32:08 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 14:32:09 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 14:32:10 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 14:32:10 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第5次没选上。即将重试
+[2024/12/24 14:32:11 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 14:32:11 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第6次没选上。即将重试
+[2024/12/24 14:32:12 INFO] crawler_zufe.service <英语演讲艺术>第7次尝试选课...
+[2024/12/24 14:32:13 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第7次没选上。即将重试
+[2024/12/24 14:32:14 INFO] crawler_zufe.service <英语演讲艺术>第8次尝试选课...
+[2024/12/24 14:32:14 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第8次没选上。即将重试
+[2024/12/24 14:32:15 INFO] crawler_zufe.service <英语演讲艺术>第9次尝试选课...
+[2024/12/24 14:32:15 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第9次没选上。即将重试
+[2024/12/24 14:32:16 INFO] crawler_zufe.service <英语演讲艺术>第10次尝试选课...
+[2024/12/24 14:32:16 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第10次没选上。即将重试
+[2024/12/24 14:37:44 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:37:44 INFO] crawler_zufe.captcha 验证码为: ijon
+[2024/12/24 14:37:44 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:37:44 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 14:37:44 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 14:37:44 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 14:37:44 INFO] crawler_zufe.captcha 验证码为: 52x4
+[2024/12/24 14:37:44 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:37:45 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:37:45 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:37:45 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:37:46 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:37:46 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:37:46 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:37:47 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:37:47 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:37:47 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 14:37:47 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 14:37:48 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 14:37:48 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 14:37:49 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 14:37:49 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 14:37:51 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 14:37:51 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 14:37:52 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 14:37:52 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第5次没选上。即将重试
+[2024/12/24 14:37:53 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 14:37:53 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第6次没选上。即将重试
+[2024/12/24 14:37:55 INFO] crawler_zufe.service <英语演讲艺术>第7次尝试选课...
+[2024/12/24 14:38:43 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 14:38:43 INFO] crawler_zufe.captcha 验证码为: wban
+[2024/12/24 14:38:43 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 14:38:44 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 14:38:44 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 14:38:44 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 14:38:45 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 14:38:45 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 14:38:45 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 14:38:45 INFO] crawler_zufe.login 选课开始
+[2024/12/24 14:38:45 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 14:38:45 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 14:38:45 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 14:38:47 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 14:38:47 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 14:38:48 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 14:38:48 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 15:13:25 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 15:13:25 INFO] crawler_zufe.captcha 验证码为: 8cdz
+[2024/12/24 15:13:25 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 15:13:26 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 15:13:26 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 15:13:27 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 15:13:27 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 15:13:28 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 15:13:28 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 15:13:28 INFO] crawler_zufe.login 选课开始
+[2024/12/24 15:13:28 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 15:13:28 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:28 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:28 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:29 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:13:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>当前选课人数已满。
+[2024/12/24 15:14:28 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 15:14:28 INFO] crawler_zufe.captcha 验证码为: vy2x
+[2024/12/24 15:14:28 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 15:14:29 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 15:14:29 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 15:14:29 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 15:14:30 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 15:14:30 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 15:14:30 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 15:14:30 INFO] crawler_zufe.login 选课开始
+[2024/12/24 15:14:30 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 15:14:30 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 15:14:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 15:14:31 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 15:14:32 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 15:14:33 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 15:14:33 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 15:14:34 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 15:14:34 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 19:20:49 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:20:49 INFO] crawler_zufe.captcha 验证码为: arb0
+[2024/12/24 19:20:49 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:20:50 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:20:50 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:20:50 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:20:51 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:20:51 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:20:51 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:20:51 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:20:51 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:20:51 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:20:51 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:20:53 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:20:53 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:20:54 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 19:20:54 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 19:24:51 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:24:51 INFO] crawler_zufe.captcha 验证码为: 8qgm
+[2024/12/24 19:24:51 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:24:52 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:24:52 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:24:53 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:24:53 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:24:53 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:24:54 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:24:54 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:24:54 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:24:54 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:24:54 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:24:55 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:24:55 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:24:56 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 19:24:56 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 19:26:13 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:26:13 INFO] crawler_zufe.captcha 验证码为: grzb
+[2024/12/24 19:26:13 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:26:14 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:26:14 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:26:14 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:26:15 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:26:15 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:26:15 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:26:15 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:26:15 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:26:15 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:26:15 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:26:17 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:26:17 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:26:18 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 19:26:18 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 19:28:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:28:56 INFO] crawler_zufe.captcha 验证码为: exwf
+[2024/12/24 19:28:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:28:56 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:28:56 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:28:57 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:28:57 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:28:57 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:28:57 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:28:58 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:28:58 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:28:58 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:28:58 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:28:59 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:28:59 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:31:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:31:16 INFO] crawler_zufe.captcha 验证码为: 4b5j
+[2024/12/24 19:31:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:31:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:31:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:31:18 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:31:18 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:31:18 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:31:18 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:31:19 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:31:19 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:31:19 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:31:19 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:31:20 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:31:20 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:31:21 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 19:31:21 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 19:33:15 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:33:15 INFO] crawler_zufe.captcha 验证码为: ghwf
+[2024/12/24 19:33:15 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:33:15 ERROR] crawler_zufe.login 进入信息服务平台失败！状态码：404
+[2024/12/24 19:33:15 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 19:33:15 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 19:33:15 INFO] crawler_zufe.captcha 验证码为: 1mv7
+[2024/12/24 19:33:15 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:33:16 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:33:16 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:33:17 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:33:17 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:33:17 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:33:18 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:33:18 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:33:18 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:33:18 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:33:18 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:33:19 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:33:19 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:34:52 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:34:52 INFO] crawler_zufe.captcha 验证码为: 8dxm
+[2024/12/24 19:34:52 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:34:52 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:34:52 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:34:53 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:34:53 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:34:53 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:34:53 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:34:54 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:34:54 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:34:54 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:34:54 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:34:55 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:34:55 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:35:31 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:35:31 INFO] crawler_zufe.captcha 验证码为: 9gr3
+[2024/12/24 19:35:31 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:35:32 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:35:32 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:35:33 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:35:33 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:35:33 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:35:34 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:35:34 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:35:34 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:35:34 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:35:34 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:35:35 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:35:35 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:36:59 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 19:36:59 INFO] crawler_zufe.captcha 验证码为: ug04
+[2024/12/24 19:36:59 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 19:37:00 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 19:37:00 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 19:37:00 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 19:37:01 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 19:37:01 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 19:37:01 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 19:37:01 INFO] crawler_zufe.login 选课开始
+[2024/12/24 19:37:01 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 19:37:02 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 19:37:02 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 19:37:03 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 19:37:03 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 19:37:04 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:37:47 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:37:47 INFO] crawler_zufe.captcha 验证码为: hx42
+[2024/12/24 21:37:47 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:37:48 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:37:48 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:37:48 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:37:49 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:37:49 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:37:49 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:37:49 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:37:49 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:37:50 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:37:50 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:37:51 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:37:51 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:37:53 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:37:53 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 21:39:52 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:39:52 INFO] crawler_zufe.captcha 验证码为: ntrx
+[2024/12/24 21:39:52 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:39:53 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:39:53 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:39:54 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:39:54 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:39:54 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:39:55 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:39:55 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:39:55 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:39:55 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:39:55 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次选课失败。
+[2024/12/24 21:39:55 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:39:55 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次选课失败。
+[2024/12/24 21:39:56 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:39:56 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次选课失败。
+[2024/12/24 21:39:56 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 21:39:56 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次选课失败。
+[2024/12/24 21:39:56 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 21:39:56 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第5次选课失败。
+[2024/12/24 21:39:56 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 21:39:56 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第6次选课失败。
+[2024/12/24 21:39:56 INFO] crawler_zufe.service <英语演讲艺术>第7次尝试选课...
+[2024/12/24 21:39:56 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第7次选课失败。
+[2024/12/24 21:39:57 INFO] crawler_zufe.service <英语演讲艺术>第8次尝试选课...
+[2024/12/24 21:39:57 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第8次选课失败。
+[2024/12/24 21:39:57 INFO] crawler_zufe.service <英语演讲艺术>第9次尝试选课...
+[2024/12/24 21:39:57 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第9次选课失败。
+[2024/12/24 21:39:57 INFO] crawler_zufe.service <英语演讲艺术>第10次尝试选课...
+[2024/12/24 21:39:57 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第10次选课失败。
+[2024/12/24 21:39:57 INFO] crawler_zufe.service <英语演讲艺术>第11次尝试选课...
+[2024/12/24 21:39:57 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第11次选课失败。
+[2024/12/24 21:39:57 INFO] crawler_zufe.service <英语演讲艺术>第12次尝试选课...
+[2024/12/24 21:39:58 ERROR] crawler_zufe.service 通识选修课课程<英语演讲艺术>第12次选课失败。
+[2024/12/24 21:42:10 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:42:10 INFO] crawler_zufe.captcha 验证码为: iixo
+[2024/12/24 21:42:10 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:42:20 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:42:20 INFO] crawler_zufe.captcha 验证码为: p0e4
+[2024/12/24 21:42:20 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:42:21 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:42:21 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:42:22 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:42:22 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:42:22 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:42:23 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:42:23 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:42:23 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:42:23 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:42:23 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:42:25 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:42:25 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:42:26 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:42:26 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 21:43:40 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:43:40 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:43:47 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:43:48 INFO] crawler_zufe.captcha 验证码为: kym5
+[2024/12/24 21:43:48 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:43:48 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:43:49 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:43:49 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:43:50 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:43:50 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:43:50 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:43:50 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:43:50 INFO] crawler_zufe.service 开始进行通识选修课程的选课...
+[2024/12/24 21:43:50 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:43:50 INFO] crawler_zufe.service 课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:43:51 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:43:52 INFO] crawler_zufe.service 课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:43:53 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:43:53 INFO] crawler_zufe.service 课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 21:43:54 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 21:43:54 INFO] crawler_zufe.service 课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 21:43:55 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 21:43:55 INFO] crawler_zufe.service 课程<英语演讲艺术>第5次没选上。即将重试
+[2024/12/24 21:43:56 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 21:43:56 INFO] crawler_zufe.service 课程<英语演讲艺术>第6次没选上。即将重试
+[2024/12/24 21:43:57 INFO] crawler_zufe.service <英语演讲艺术>第7次尝试选课...
+[2024/12/24 21:43:57 INFO] crawler_zufe.service 课程<英语演讲艺术>第7次没选上。即将重试
+[2024/12/24 21:44:23 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:44:24 INFO] crawler_zufe.captcha 验证码为: 7bip
+[2024/12/24 21:44:24 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:44:24 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:44:24 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:44:25 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:44:25 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:44:25 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:44:25 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:44:26 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:44:26 INFO] crawler_zufe.service 开始进行通识选修课程的选课...
+[2024/12/24 21:44:26 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:44:26 INFO] crawler_zufe.service 课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:44:27 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:44:27 INFO] crawler_zufe.service 课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:45:50 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:45:50 INFO] crawler_zufe.captcha 验证码为: 5n2b
+[2024/12/24 21:45:50 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:45:51 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:45:51 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:45:51 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:45:52 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:45:52 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:45:52 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:45:52 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:45:52 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:45:52 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:45:52 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:45:54 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:45:54 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:45:55 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:45:55 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 21:45:56 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 21:45:56 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 21:49:29 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:49:29 INFO] crawler_zufe.captcha 验证码为: 4rkj
+[2024/12/24 21:49:29 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:49:30 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:49:30 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:49:31 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:49:31 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:49:31 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:49:31 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:49:32 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:49:32 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:49:32 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:49:57 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:49:57 INFO] crawler_zufe.captcha 验证码为: yuc2
+[2024/12/24 21:49:57 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:49:59 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:49:59 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:49:59 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:50:00 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:50:00 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:50:00 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:50:00 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:50:00 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:50:01 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:50:34 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:50:34 INFO] crawler_zufe.captcha 验证码为: r37m
+[2024/12/24 21:50:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:50:35 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:50:35 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:50:35 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:50:36 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:50:36 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:50:36 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:50:36 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:50:36 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:50:36 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:51:05 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:51:05 INFO] crawler_zufe.captcha 验证码为: p3ze
+[2024/12/24 21:51:05 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:51:06 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:51:06 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:51:07 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:51:08 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:51:08 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:51:08 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:51:08 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:51:08 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:51:08 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:51:46 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:51:46 INFO] crawler_zufe.captcha 验证码为: zxar
+[2024/12/24 21:51:46 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:51:47 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:51:47 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:51:48 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:51:48 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:51:48 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:51:49 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:51:49 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:51:49 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:51:49 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:51:49 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:51:50 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:51:50 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:56:48 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:56:49 INFO] crawler_zufe.captcha 验证码为: zjeu
+[2024/12/24 21:56:49 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:56:57 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:56:58 INFO] crawler_zufe.captcha 验证码为: pczr
+[2024/12/24 21:56:58 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:56:58 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:56:58 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:56:59 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:56:59 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:57:00 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:57:00 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:57:00 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:57:00 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:57:00 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:57:00 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:57:02 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:57:02 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:57:03 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 21:57:03 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 21:57:04 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 21:57:04 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 21:57:40 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:57:40 INFO] crawler_zufe.captcha 验证码为: w7n1
+[2024/12/24 21:57:40 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:57:41 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:57:41 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:57:41 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:57:42 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:57:42 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:57:42 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:57:43 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:57:43 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:57:43 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:57:43 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 21:57:44 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 21:57:44 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 21:58:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 21:58:55 INFO] crawler_zufe.captcha 验证码为: ifg0
+[2024/12/24 21:58:55 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 21:58:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 21:58:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 21:58:57 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 21:58:58 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 21:58:58 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 21:58:58 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 21:58:58 INFO] crawler_zufe.login 选课开始
+[2024/12/24 21:58:58 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 21:58:58 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 21:58:58 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:06:01 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:06:01 INFO] crawler_zufe.captcha 验证码为: 6qv3
+[2024/12/24 22:06:01 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:06:02 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:06:02 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:06:03 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:06:03 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:06:03 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:06:04 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:06:04 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:06:04 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:06:04 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:06:04 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:06:06 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:06:06 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:06:07 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:06:07 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:06:08 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:06:08 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:06:09 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 22:06:09 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第5次没选上。即将重试
+[2024/12/24 22:06:10 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 22:06:42 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:06:44 INFO] crawler_zufe.captcha 验证码为: by4u
+[2024/12/24 22:06:44 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:06:45 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:06:45 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:06:45 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:06:45 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:06:46 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:06:46 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:06:46 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:06:46 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:06:47 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:06:47 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:06:48 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:06:48 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:08:29 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:08:29 INFO] crawler_zufe.captcha 验证码为: sge4
+[2024/12/24 22:08:29 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:08:38 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:08:39 INFO] crawler_zufe.captcha 验证码为: t0xs
+[2024/12/24 22:08:39 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:08:40 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:08:40 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:08:40 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:08:41 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:08:41 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:08:41 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:08:41 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:08:41 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:42 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:43 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:08:44 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:09:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:09:56 INFO] crawler_zufe.captcha 验证码为: 8itz
+[2024/12/24 22:09:56 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:09:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:09:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:09:57 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:09:58 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:09:58 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:09:58 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:09:58 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:09:58 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:09:59 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:09:59 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:10:00 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:10:00 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:10:01 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:10:02 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:10:03 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:10:03 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:10:59 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:11:00 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:11:10 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:11:10 INFO] crawler_zufe.captcha 验证码为: a5du
+[2024/12/24 22:11:10 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:11:11 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:11:11 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:11:11 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:11:12 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:11:12 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:11:12 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:11:12 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:11:12 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:11:13 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:11:13 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:11:14 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:11:14 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:12:39 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:12:41 INFO] crawler_zufe.captcha 验证码为: pvy3
+[2024/12/24 22:12:41 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:12:42 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:12:42 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:12:43 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:12:43 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:12:43 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:12:44 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:12:44 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:12:44 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:12:44 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:12:44 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:12:45 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:12:45 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:12:47 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:12:47 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:14:38 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:14:38 INFO] crawler_zufe.captcha 验证码为: d5zx
+[2024/12/24 22:14:38 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:14:39 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:14:39 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:14:39 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:14:40 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:14:40 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:14:40 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:14:40 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:14:40 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:14:41 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:14:41 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:14:42 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:14:42 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:15:18 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:15:18 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:15:27 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:15:27 INFO] crawler_zufe.captcha 验证码为: i6qe
+[2024/12/24 22:15:27 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:15:28 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:15:28 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:15:29 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:15:29 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:15:29 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:15:30 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:15:30 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:15:30 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:15:30 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:15:30 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:15:31 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:15:32 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:18:29 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:18:29 INFO] crawler_zufe.captcha 验证码为: 6arw
+[2024/12/24 22:18:29 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:18:30 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:18:30 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:18:30 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:18:31 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:18:31 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:18:31 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:18:31 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:18:31 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:18:32 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:18:33 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:18:34 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:18:35 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:18:37 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 22:20:48 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:20:49 INFO] crawler_zufe.captcha 验证码为: b732
+[2024/12/24 22:20:49 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:20:50 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:20:50 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:20:50 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:20:51 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:20:51 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:20:51 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:20:51 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:20:51 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:53 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:20:54 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:15 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:22:17 INFO] crawler_zufe.captcha 验证码为: ngxg
+[2024/12/24 22:22:17 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:22:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:22:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:22:18 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:22:18 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:22:18 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:22:19 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:22:19 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:22:19 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:22:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:22:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:32 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:24:32 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:24:41 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:24:41 INFO] crawler_zufe.captcha 验证码为: juay
+[2024/12/24 22:24:41 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:24:42 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:24:43 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:24:43 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:24:44 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:24:44 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:24:45 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:24:45 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:24:45 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:24:45 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:46 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:47 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:24:47 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:26:16 INFO] crawler_zufe.captcha 验证码为: mhwz
+[2024/12/24 22:26:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:26:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:26:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:26:17 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:26:18 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:26:18 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:26:18 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:26:18 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:26:18 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:26:18 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:19 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:20 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:26:21 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:01 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:27:02 INFO] crawler_zufe.captcha 验证码为: fuce
+[2024/12/24 22:27:02 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:27:02 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:27:03 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:27:03 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:27:04 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:27:04 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:27:04 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:27:04 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:27:04 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:27:04 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:05 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:27:05 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:27:06 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:06 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:27:06 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:27:07 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:07 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:27:40 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:27:40 INFO] crawler_zufe.captcha 验证码为: 735p
+[2024/12/24 22:27:40 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:27:48 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:27:48 INFO] crawler_zufe.captcha 验证码为: 9fz3
+[2024/12/24 22:27:49 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:27:49 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:27:49 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:27:50 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:27:50 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:27:50 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:27:50 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:27:51 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:27:51 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:27:51 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:51 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:27:51 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:27:52 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-01当前选课人数已满。
+[2024/12/24 22:27:52 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:27:52 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:30:03 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:30:03 INFO] crawler_zufe.captcha 验证码为: fmcw
+[2024/12/24 22:30:03 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:30:04 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:30:04 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:30:05 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:30:05 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:30:05 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:30:05 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:30:06 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:30:06 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:30:06 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:30:06 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:30:07 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:30:07 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:30:08 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:30:08 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:31:43 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:31:43 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:31:51 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:31:51 INFO] crawler_zufe.captcha 验证码为: pevg
+[2024/12/24 22:31:51 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:31:52 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:31:52 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:31:52 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:31:53 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:31:53 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:31:53 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:31:53 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:31:53 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:31:54 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:31:54 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:31:55 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:31:55 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:36:31 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:36:34 INFO] crawler_zufe.captcha 验证码为: 7vhc
+[2024/12/24 22:36:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:36:38 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:36:38 INFO] crawler_zufe.captcha 验证码为: 53a9
+[2024/12/24 22:36:38 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:36:39 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:36:39 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:36:39 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:36:40 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:36:40 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:36:40 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:36:40 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:36:40 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:36:41 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:36:41 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:36:42 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:36:42 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:36:43 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:36:43 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:36:44 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:36:44 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:37:37 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:37:37 INFO] crawler_zufe.captcha 验证码为: f7xh
+[2024/12/24 22:37:37 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:37:38 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:37:38 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:37:38 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:37:39 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:37:39 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:37:39 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:37:40 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:37:40 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:37:40 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:37:40 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:37:41 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:37:41 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:44:05 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:44:07 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:44:07 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:44:07 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:44:07 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 22:44:07 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 22:44:08 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:44:09 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:44:09 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:44:09 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 22:44:09 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 22:44:09 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:44:10 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:44:10 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:44:10 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 22:44:10 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 22:44:16 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:44:16 INFO] crawler_zufe.captcha 验证码为: ifxg
+[2024/12/24 22:44:16 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:44:17 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:44:17 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:44:18 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:44:18 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:44:18 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:44:19 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:44:19 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:44:19 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:44:19 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:44:19 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:44:20 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:44:21 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:44:22 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:44:22 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:44:23 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:44:23 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:47:33 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:47:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:47:34 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:47:34 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:47:34 ERROR] crawler_zufe.login 第1次登录失败！
+[2024/12/24 22:47:34 INFO] crawler_zufe.login 尝试第 2 次登录
+[2024/12/24 22:47:34 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:47:35 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:47:35 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:47:35 ERROR] crawler_zufe.login 第2次登录失败！
+[2024/12/24 22:47:35 INFO] crawler_zufe.login 尝试第 3 次登录
+[2024/12/24 22:47:36 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:47:36 ERROR] crawler_zufe.login 进入信息服务平台失败！
+[2024/12/24 22:47:36 ERROR] crawler_zufe.login 错误信息：cannot access local variable 'in_url' where it is not associated with a value
+[2024/12/24 22:47:36 ERROR] crawler_zufe.login 第3次登录失败！
+[2024/12/24 22:47:36 ERROR] crawler_zufe.login 解析综合信息服务平台页面内容失败！错误: 'NoneType' object has no attribute 'text'
+[2024/12/24 22:47:40 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:47:41 INFO] crawler_zufe.captcha 验证码为: sg1n
+[2024/12/24 22:47:41 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:47:42 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:47:42 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:47:43 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:47:43 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:47:43 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:47:44 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:47:44 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:47:44 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:47:44 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:47:44 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:47:45 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:47:46 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:47:47 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:47:47 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:47:48 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:47:48 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:47:49 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 22:47:49 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第5次没选上。即将重试
+[2024/12/24 22:47:55 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:47:55 INFO] crawler_zufe.captcha 验证码为: gnbv
+[2024/12/24 22:47:55 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:47:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:47:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:47:57 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:47:58 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:47:58 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:47:58 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:47:58 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:47:58 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:47:58 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:47:59 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第1次没选上。即将重试
+[2024/12/24 22:48:00 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:48:00 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第2次没选上。即将重试
+[2024/12/24 22:48:01 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:48:01 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第3次没选上。即将重试
+[2024/12/24 22:48:02 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:48:02 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>第4次没选上。即将重试
+[2024/12/24 22:50:49 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:50:50 INFO] crawler_zufe.captcha 验证码为: bty5
+[2024/12/24 22:50:50 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:50:50 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:50:50 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:50:51 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:50:51 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:50:51 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:50:52 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:50:52 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:50:52 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:50:52 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:50:52 INFO] crawler_zufe.service 通识选修课课程<英语演讲艺术>选课成功！
+[2024/12/24 22:51:33 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:51:33 INFO] crawler_zufe.captcha 验证码为: kw4w
+[2024/12/24 22:51:33 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:51:34 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:51:34 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:51:35 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:51:35 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:51:35 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:51:35 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:51:36 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:51:36 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:51:36 INFO] crawler_zufe.service <英语演讲艺术>第1次尝试选课...
+[2024/12/24 22:51:36 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:36 INFO] crawler_zufe.service <英语演讲艺术>第2次尝试选课...
+[2024/12/24 22:51:37 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:37 INFO] crawler_zufe.service <英语演讲艺术>第3次尝试选课...
+[2024/12/24 22:51:37 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:37 INFO] crawler_zufe.service <英语演讲艺术>第4次尝试选课...
+[2024/12/24 22:51:37 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:37 INFO] crawler_zufe.service <英语演讲艺术>第5次尝试选课...
+[2024/12/24 22:51:37 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:37 INFO] crawler_zufe.service <英语演讲艺术>第6次尝试选课...
+[2024/12/24 22:51:38 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:38 INFO] crawler_zufe.service <英语演讲艺术>第7次尝试选课...
+[2024/12/24 22:51:38 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:38 INFO] crawler_zufe.service <英语演讲艺术>第8次尝试选课...
+[2024/12/24 22:51:38 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:38 INFO] crawler_zufe.service <英语演讲艺术>第9次尝试选课...
+[2024/12/24 22:51:38 INFO] crawler_zufe.service 课程<英语演讲艺术>教学班(2024-2025-2)-FRL1384-02当前选课人数已满！
+[2024/12/24 22:51:39 INFO] crawler_zufe.service <英语演讲艺术>第10次尝试选课...
+[2024/12/24 22:57:22 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:57:23 INFO] crawler_zufe.captcha 验证码为: 1mhe
+[2024/12/24 22:57:23 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:57:24 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:57:24 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:57:24 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:57:24 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:57:25 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:57:25 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:57:25 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:57:25 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:57:25 INFO] crawler_zufe.service <综合评价思想及方法应用>第1次尝试选课...
+[2024/12/24 22:57:25 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第1次没选上。即将重试
+[2024/12/24 22:57:26 INFO] crawler_zufe.service <综合评价思想及方法应用>第2次尝试选课...
+[2024/12/24 22:57:27 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第2次没选上。即将重试
+[2024/12/24 22:57:28 INFO] crawler_zufe.service <综合评价思想及方法应用>第3次尝试选课...
+[2024/12/24 22:57:28 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第3次没选上。即将重试
+[2024/12/24 22:59:15 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 22:59:15 INFO] crawler_zufe.captcha 验证码为: 9st6
+[2024/12/24 22:59:15 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 22:59:16 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 22:59:16 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 22:59:16 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 22:59:17 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 22:59:17 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 22:59:17 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 22:59:17 INFO] crawler_zufe.login 选课开始
+[2024/12/24 22:59:17 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 22:59:17 INFO] crawler_zufe.service <综合评价思想及方法应用>第1次尝试选课...
+[2024/12/24 22:59:17 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>选课成功！
+[2024/12/24 23:04:27 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 23:04:27 INFO] crawler_zufe.captcha 验证码为: rr4h
+[2024/12/24 23:04:27 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 23:04:35 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 23:04:35 INFO] crawler_zufe.captcha 验证码为: z1yq
+[2024/12/24 23:04:35 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 23:04:36 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 23:04:36 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 23:04:37 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 23:04:37 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 23:04:37 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 23:04:38 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 23:04:38 INFO] crawler_zufe.login 选课开始
+[2024/12/24 23:04:38 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 23:04:38 INFO] crawler_zufe.service <综合评价思想及方法应用>第1次尝试选课...
+[2024/12/24 23:04:38 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第1次没选上。即将重试
+[2024/12/24 23:04:39 INFO] crawler_zufe.service <综合评价思想及方法应用>第2次尝试选课...
+[2024/12/24 23:04:39 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第2次没选上。即将重试
+[2024/12/24 23:04:40 INFO] crawler_zufe.service <综合评价思想及方法应用>第3次尝试选课...
+[2024/12/24 23:04:41 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>第3次没选上。即将重试
+[2024/12/24 23:10:56 INFO] crawler_zufe.login 尝试第 1 次登录
+[2024/12/24 23:10:57 INFO] crawler_zufe.captcha 验证码为: har5
+[2024/12/24 23:10:57 INFO] crawler_zufe.login Hit http://jwxt.zufe.edu.cn/sso/driotlogin
+[2024/12/24 23:10:57 INFO] crawler_zufe.login 成功进入信息服务平台！
+[2024/12/24 23:10:57 INFO] crawler_zufe.login 成功触发班级推荐课表打印按钮！
+[2024/12/24 23:10:58 INFO] crawler_zufe.login 成功进入班级推荐课表打印页面！
+[2024/12/24 23:10:58 INFO] crawler_zufe.login 成功获取到id值！
+[2024/12/24 23:10:58 INFO] crawler_zufe.login 成功触发自主选课按钮！
+[2024/12/24 23:10:59 INFO] crawler_zufe.login 成功进入自主选课页面！
+[2024/12/24 23:10:59 INFO] crawler_zufe.login 选课开始
+[2024/12/24 23:10:59 INFO] crawler_zufe.service 开始进行通识选修课的选课...
+[2024/12/24 23:10:59 INFO] crawler_zufe.service <综合评价思想及方法应用>第1次尝试选课...
+[2024/12/24 23:10:59 INFO] crawler_zufe.service 通识选修课课程<综合评价思想及方法应用>选课成功！

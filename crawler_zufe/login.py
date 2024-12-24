@@ -308,11 +308,12 @@ class IZUFE:
             # 查找select标签中selected属性为"selected"的option标签
             selected_option = select_tag.find('option', selected=True)
             
-            # 如果找到了selected的option标签，获取其value和text
+            # 如果找到了selected的option标签，获取其value
             if selected_option:
                 selected_value = selected_option.get('value')  # 获取value值
                 # 将结果存储到字典中
                 id_dict[select_id] = selected_value
+        # print("id_dict:", id_dict)
                 
         # print("id_dict:", id_dict)
         self.id_dict = id_dict
@@ -350,7 +351,7 @@ class IZUFE:
                 if error_span:
                     # 打印该元素的字符串表示
                     logger.info("当前不属于选课阶段")
-                    time.sleep(0.5)  # 等待 0.5 秒后刷新页面
+                    time.sleep(1)  # 等待 1 秒后刷新页面
                 else:
                     logger.info("选课开始")
                     self.soup = soup
