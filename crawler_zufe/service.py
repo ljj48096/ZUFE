@@ -918,7 +918,7 @@ class CourseService(BaseService):
 
         while count < self.retry_times or infnite:
             count += 1 # 记录运行次数
-            time.sleep(random.randint(1, 3)) # 延迟
+            # time.sleep(random.randint(1, 3)) # 延迟
             """查询待选课相关信息"""
             for _, coure_info in enumerate(self.courses):
                 courese_name = coure_info.get('课程名称')
@@ -950,7 +950,16 @@ class CourseService(BaseService):
                 data = rsp.json()
 
                 tmpList = data.get('tmpList', [])  # 同名课程相关信息
-                
+                jxb_ids = None
+                kch_id = None
+                kklxdm = None
+                kcmc = None
+                kch = None
+                xf = None
+                jxbmc = None
+                num_limit = None
+                num_alread_selected = None
+
                 for course_base_info in tmpList:
                     num_limit = course_base_info["queryModel"]["limit"]  # 课程名数量限制
                     num_alread_selected = course_base_info["rwzxs"]  # 已选课程数量
@@ -970,9 +979,9 @@ class CourseService(BaseService):
                         break
                     
                 # 课程已满, 跳过
-                if num_limit < num_alread_selected:
-                    logger.info(f'{course_type}课程<{courese_name}>当前选课人数已满。')
-                    continue    
+                # if int(num_limit) < int(num_alread_selected):
+                #     logger.info(f'{course_type}课程<{courese_name}>当前选课人数已满。')
+                #     continue    
 
                 # 构造选课用的payload
                 temp_payload1 = {
