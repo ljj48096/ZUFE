@@ -308,18 +308,18 @@ class GeneralService(BaseService):
                 try:
                     logger.info(f'<{courese_name}>第{count}次尝试选课...')
                     rsp1 = temp_session.post(url1, data=temp_payload1, headers=self.headers)
-                    # with open('rsp1.html', 'w', encoding='utf-8') as f:
-                    #     f.write(rsp.text)
+                    with open('rsp1.html', 'w', encoding='utf-8') as f:
+                        f.write(rsp.text)
                     rsp2 = temp_session.post(url2, data=temp_payload2, headers=self.headers)
-                    # with open('rsp2.html', 'w', encoding='utf-8') as f:
-                    #     f.write(rsp.text)
+                    with open('rsp2.html', 'w', encoding='utf-8') as f:
+                        f.write(rsp.text)
                     if rsp2.status_code == 200 and rsp1.status_code == 200:
                         msg = rsp2.json()["flag"]
                         if msg == "1": 
                             logger.info(f'课程<{courese_name}>选课成功。')
                             break
                         else:
-                            logger.info(f'课程<{courese_name}>第{count}次没选上。即将重试')
+                            # logger.info(f'课程<{courese_name}>第{count}次没选上。即将重试')
                             time.sleep(self.delay)
                             continue
                 except Exception as e:
@@ -784,7 +784,7 @@ class CourseService(BaseService):
             xkkz_id = "294F24C520516E0EE063A30810AC2858"
             kklxdm = "01"
         elif course_type == "通识选修课":
-            xkkz_id = "294EFF45B7F3691AE063A40810ACC46B"
+            xkkz_id = "294EFF45B7FF691AE063A40810ACC46B"
             kklxdm = "10"
         elif course_type == "网络课程":
             xkkz_id = "294FB79AA98775D1E063A30810AC098D"
@@ -931,7 +931,9 @@ class CourseService(BaseService):
                 
                 # 课选完了就退出
                 if len(self.courses_ok) == len(self.courses):
+                    print("#"*20)
                     logger.info(f'{course_type}课程选课完毕。')
+                    print("#"*20)
                     return None
 
                 # 更新payload
@@ -948,7 +950,8 @@ class CourseService(BaseService):
                     continue
 
                 data = rsp.json()
-
+                # with open('data.json', 'w', encoding='utf-8') as f:
+                #     json.dump(data, f, ensure_ascii=False, indent=4)
                 tmpList = data.get('tmpList', [])  # 同名课程相关信息
                 jxb_ids = None
                 kch_id = None
@@ -961,8 +964,8 @@ class CourseService(BaseService):
                 num_alread_selected = None
 
                 for course_base_info in tmpList:
-                    num_limit = course_base_info["queryModel"]["limit"]  # 课程名数量限制
-                    num_alread_selected = course_base_info["rwzxs"]  # 已选课程数量
+                    # num_limit = course_base_info["queryModel"]["limit"]  # 课程名数量限制
+                    num_alread_selected = course_base_info["yxzrs"]  # 已选课程数量
                     # 获得选课所需的参数
                     jxb_ids = course_base_info["jxb_id"]  # 选课id
                     kch_id = course_base_info["kch_id"]  # 课程号
@@ -973,15 +976,22 @@ class CourseService(BaseService):
                     xf = course_base_info["xf"]  # 学分
                     jxbmc = course_base_info["jxbmc"]  # 教学班名称
                     # 防止选错班
-                    if jxb_name != None and jxbmc == jxb_name:
-                        break
-                    if course_id != None and kch == course_id:
-                        break
+                    if jxb_name:
+                        if jxbmc == jxb_name:
+                            break
+                        else:
+                            continue
+                    
+                    if course_id:
+                        if course_id != None and kch == course_id:
+                            break
+                        else:
+                            continue
                     
                 # 课程已满, 跳过
-                # if int(num_limit) < int(num_alread_selected):
-                #     logger.info(f'{course_type}课程<{courese_name}>当前选课人数已满。')
-                #     continue    
+                # if int(num_alread_selected) % 5 == 0:
+                #     logger.info(f'课程<{courese_name}>教学班{jxbmc}当前选课人数已满。')
+                #     next    
 
                 # 构造选课用的payload
                 temp_payload1 = {
@@ -995,21 +1005,28 @@ class CourseService(BaseService):
                     "kklxdm": kklxdm,
                 }
 
-                temp_payload2 = temp_payload1
-                temp_payload2.update({
-                    "kklxdm": kklxdm,
+                temp_payload2 = {
+                    "jxb_ids": jxb_ids,
+                    "kch_id": kch_id,
                     "kcmc": f"({kch}){kcmc} - {xf} 学分",
-                    "rwlx": "1",
+                    "rwlx": "2",
                     "rlkz": "0",
-                    "rlzlkz": "0",
-                    "sxbj": "0",
+                    "rlzlkz": "1",
+                    "sxbj": "1",
                     "xxkbj": "0",
                     "qz": "0",
                     "cxbj": "0", 
                     "xkkz_id": xkkz_id,
-                    "xklc": "1"
-                    })
-                
+                    "njdm_id": payload.get("njdm_id"),
+                    "zyh_id": payload.get("zyh_id"),
+                    "kklxdm": kklxdm,
+                    "xklc": "2",
+                    "xkxnm": payload.get("xkxnm"),
+                    "xkxqm": payload.get("xkxqm"),
+                    "jcxx_id":"",
+                    }
+
+
                 url1 = "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzb_cxXkTitleMsg.html?gnmkdm=N253512"
                 url2 = "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzbjk_xkBcZyZzxkYzb.html?gnmkdm=N253512"
 
@@ -1017,18 +1034,44 @@ class CourseService(BaseService):
                 try:
                     logger.info(f'<{courese_name}>第{count}次尝试选课...')
                     rsp1 = temp_session.post(url1, data=temp_payload1, headers=self.headers)
-                    rsp2 = temp_session.post(url2, data=temp_payload2, headers=self.headers)
 
+                    rsp2_headers = self.headers.copy()
+                    rsp2_headers = {
+                        "Accept": "application/json, text/javascript, */*; q=0.01",
+                        "Accept-Encoding": "gzip, deflate",
+                        "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,zh-TW;q=0.5",
+                        "Cache-Control": "no-cache",
+                        "Connection": "keep-alive",
+                        "Content-Length": "336",
+                        "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                        # "Cookie": "JSESSIONID=9BD7FDD30681CB0C942B7276666A619D; route=da8033a7a2a4367c0c7a15cb1b8ef6dd",
+                        "Host": "jwxt.zufe.edu.cn",
+                        "Origin": "http://jwxt.zufe.edu.cn",
+                        "Pragma": "no-cache",
+                        "Referer": "http://jwxt.zufe.edu.cn/jwglxt/xsxk/zzxkyzb_cxZzxkYzbIndex.html?gnmkdm=N253512&layout=default",
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+                        "X-Requested-With": "XMLHttpRequest"
+                        }
+
+                    rsp2 = temp_session.post(url2, data=temp_payload2, headers=rsp2_headers)
+                    
                     if rsp2.status_code == 200 and rsp1.status_code == 200:
+                        with open('rsp1.html', 'w', encoding='utf-8') as f:
+                            f.write(rsp1.text)
+                        with open('rsp2.html', 'w', encoding='utf-8') as f:
+                            f.write(rsp2.text)
                         msg = rsp2.json()["flag"]
+                        
                         if msg == "1": 
-                            logger.info(f'{course_type}课程<{courese_name}>选课成功！')
+                            logger.info(f'{course_type}课程<{kcmc}>选课成功！')
                             self.courses_ok.append(kcmc)
                             continue
+                        elif msg == "-1":
+                            logger.info(f'课程<{kcmc}>教学班{jxbmc}当前选课人数已满！')
                         else:
-                            logger.info(f'{course_type}课程<{courese_name}>第{count}次没选上。即将重试')
+                            logger.info(f'{course_type}课程<{kcmc}>第{count}次没选上。即将重试')
                             time.sleep(self.delay)
                             continue
                 except Exception as e:
-                    logger.error(f'{course_type}课程<{courese_name}>第{count}次选课失败。')
+                    logger.error(f'{course_type}课程<{kcmc}>第{count}次选课失败。')
                     continue
