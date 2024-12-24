@@ -70,7 +70,7 @@ def check_config(file_path):
         major = dict()
         major.update({'courses': major_cos})
     else:
-        logger.warning('未检测到普通理论课的配置。')
+        logger.warning('未检测到主修课程的配置。')
         major = None
 
     if not (elective or net or major):
