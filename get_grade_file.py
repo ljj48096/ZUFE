@@ -61,8 +61,8 @@ def main():
 
     common = check_config(config_file)
 
-    xnm = "2023"  # 学年，例如2023表示2023-2024年，空代表全部
-    xqm = ""  # 学期，例如1表示第一学期，2表示第二学期，空代表全部
+    xnm = "2024"  # 学年，例如2023表示2023-2024年，空代表全部
+    xqm = "1"  # 学期，例如1表示第一学期，2表示第二学期，空代表全部
     kcbj = ""  # 课程标记，主修、辅修、二学位啥啥啥的，空代表全部
 
     zufe = IZUFE(username=common.get('username'), password=common.get('password'))

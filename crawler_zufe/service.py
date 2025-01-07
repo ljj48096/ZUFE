@@ -301,6 +301,8 @@ class NetService(BaseService):
                 infnite = True
             while count < self.retry_times or infnite:
                 count += 1
+                if count % 100 == 0:
+                    print(f"当前已选上")
                 try:
                     logger.info(f'<{courese_name}>第{count}次尝试选课...')
                     rsp1 = temp_session.post(url1, data=temp_payload1, headers=self.headers)
@@ -690,8 +692,13 @@ class CourseService(BaseService):
 
         while count < self.retry_times or infnite:
             count += 1 # 记录运行次数
+            if count % 100 ==0:
+                print(f"目前已选上{self.courses_ok}")
             # time.sleep(random.randint(1, 3)) # 延迟
             """查询待选课相关信息"""
+            # 所有课程名字
+            course_name_uniuqe = set([curs["课程名称"] for curs in self.courses])
+
             for _, coure_info in enumerate(self.courses):
                 courese_name = coure_info.get('课程名称')
                 course_id = coure_info.get('课程代码', None)
@@ -702,7 +709,7 @@ class CourseService(BaseService):
                     continue
                 
                 # 课选完了就退出
-                if len(self.courses_ok) == len(self.courses):
+                if len(self.courses_ok) == len(course_name_uniuqe):
                     print("#"*20)
                     logger.info(f'{course_type}课程选课完毕。')
                     print("#"*20)
@@ -804,7 +811,7 @@ class CourseService(BaseService):
 
                 # 发送选课请求
                 try:
-                    logger.info(f'<{courese_name}>第{count}次尝试选课...')
+                    logger.info(f'<{courese_name}>教学班{jxbmc}第{count}次尝试选课...')
                     rsp1 = temp_session.post(url1, data=temp_payload1, headers=self.headers)
 
                     rsp2_headers = self.headers.copy()
@@ -816,7 +823,6 @@ class CourseService(BaseService):
                         "Connection": "keep-alive",
                         "Content-Length": "336",
                         "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
-                        # "Cookie": "JSESSIONID=9BD7FDD30681CB0C942B7276666A619D; route=da8033a7a2a4367c0c7a15cb1b8ef6dd",
                         "Host": "jwxt.zufe.edu.cn",
                         "Origin": "http://jwxt.zufe.edu.cn",
                         "Pragma": "no-cache",
@@ -828,21 +834,26 @@ class CourseService(BaseService):
                     rsp2 = temp_session.post(url2, data=temp_payload2, headers=rsp2_headers)
                     
                     if rsp2.status_code == 200 and rsp1.status_code == 200:
-                        with open('rsp1.html', 'w', encoding='utf-8') as f:
-                            f.write(rsp1.text)
-                        with open('rsp2.html', 'w', encoding='utf-8') as f:
-                            f.write(rsp2.text)
+                        # with open('rsp1.html', 'w', encoding='utf-8') as f:
+                        #     f.write(rsp1.text)
+                        # with open('rsp2.html', 'w', encoding='utf-8') as f:
+                        #     f.write(rsp2.text)
                         msg = rsp2.json()["flag"]
                         
                         if msg == "1": 
-                            logger.info(f'{course_type}课程<{kcmc}>选课成功！')
+                            logger.info(f'课程<{kcmc}>教学班{jxbmc}选课成功！')
                             self.courses_ok.append(kcmc)
+                            # 删除待选课中同名的课
+                            for c in self.courses:
+                                if c.get('课程名称') == kcmc:
+                                    self.courses.remove(c)
                             continue
                         elif msg == "-1":
                             logger.info(f'课程<{kcmc}>教学班{jxbmc}当前选课人数已满！')
-                            time.sleep(self.delay)
+                            # time.sleep(self.delay)
+                            time.sleep(random.uniform(0, 3))
                         else:
-                            logger.info(f'{course_type}课程<{kcmc}>第{count}次没选上。即将重试')
+                            logger.info(f'课程<{kcmc}>教学班{jxbmc}第{count}次没选上。即将重试')
                             time.sleep(self.delay)
                             continue
                 except Exception as e:

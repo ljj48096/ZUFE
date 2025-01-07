@@ -2,7 +2,7 @@ import argparse
 import json
 import time
 from crawler_zufe.login import IZUFE
-from crawler_zufe.service import GeneralService, MajorService, NetService, CourseService
+from crawler_zufe.service import MajorService, NetService, CourseService
 from utils.util import get_logger
 from crawler_zufe.captcha import *
 
